@@ -42,6 +42,7 @@ export default function Home() {
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <Link
                 to="/monitor"
+                title="Explore the heatwave risk monitoring dashboard"
                 className="focus-ring inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-orange-500 px-6 font-bold text-white shadow-glow transition hover:-translate-y-0.5 hover:bg-orange-600"
               >
                 Explore Heatwave Risk
@@ -49,6 +50,7 @@ export default function Home() {
               </Link>
               <Link
                 to="/awareness"
+                title="Learn heatwave awareness and preparation tips"
                 className="focus-ring inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/30 bg-white/10 px-6 font-bold text-white backdrop-blur transition hover:-translate-y-0.5 hover:bg-white/20"
               >
                 Learn More
@@ -143,7 +145,11 @@ export default function Home() {
               </p>
               <h2 className="mt-4 text-3xl font-black sm:text-4xl">Heatwave Awareness Resources</h2>
             </div>
-            <Link to="/awareness" className="inline-flex items-center gap-2 font-bold text-orange-700">
+            <Link
+              to="/awareness"
+              title="View all heatwave awareness resources"
+              className="inline-flex items-center gap-2 font-bold text-orange-700"
+            >
               View all resources
               <ChevronRight size={18} aria-hidden="true" />
             </Link>
@@ -157,7 +163,11 @@ export default function Home() {
                 <p className="mt-5 text-xs font-black uppercase text-orange-700">{category}</p>
                 <h3 className="mt-2 text-xl font-black">{title}</h3>
                 <p className="mt-3 text-sm leading-6 text-slate-600">{description}</p>
-                <Link to="/awareness" className="mt-5 inline-flex items-center gap-2 font-bold text-orange-700">
+                <Link
+                  to="/awareness"
+                  title={`Read more about ${title}`}
+                  className="mt-5 inline-flex items-center gap-2 font-bold text-orange-700"
+                >
                   Read More
                   <ArrowRight size={17} aria-hidden="true" />
                 </Link>
@@ -180,6 +190,7 @@ export default function Home() {
               </div>
               <Link
                 to="/monitor"
+                title="Explore the climate monitoring dashboard"
                 className="focus-ring inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-white px-6 font-bold text-navy transition hover:-translate-y-0.5 hover:bg-orange-50"
               >
                 Explore Climate Dashboard

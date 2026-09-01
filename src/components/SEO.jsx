@@ -22,6 +22,7 @@ export default function SEO({ title, description, keywords, path = '/' }) {
     document.title = title;
     setMeta('meta[name="description"]', { name: 'description', content: description });
     setMeta('meta[name="keywords"]', { name: 'keywords', content: keywords });
+    setMeta('meta[name="robots"]', { name: 'robots', content: 'index, follow' });
     setMeta('meta[property="og:title"]', { property: 'og:title', content: title });
     setMeta('meta[property="og:description"]', {
       property: 'og:description',
