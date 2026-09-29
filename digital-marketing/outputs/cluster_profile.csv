@@ -1,0 +1,5 @@
+cluster,customers,pct_of_customers,avg_age,avg_income,avg_spending_score,avg_purchase_frequency,avg_visits_per_month,avg_order_value,top_channels,top_interests,top_lifestyle,top_occupations,top_city
+0,198,24.8,24.4,552611.0,60.1,3.2,25.9,918.0,"Instagram, Reddit","Climate Data, AI Forecasting",Digital native,"Software Engineer, Researcher",Pune
+1,159,19.9,49.6,2152085.0,27.8,1.9,11.8,5144.0,"Webinar, LinkedIn","Early Warning Systems, Urban Heat Policy",Community focused,"Urban Planner, Municipal Officer",Delhi
+2,200,25.0,42.1,983582.0,72.1,11.9,13.8,2424.0,"Email, Facebook","Health Advisories, Child and Elder Care",Family first,"Teacher, Doctor",Bengaluru
+3,243,30.4,36.0,291848.0,38.4,4.8,8.7,657.0,"WhatsApp, Push Notification","Heat Safety Alerts, Work Hour Advisories",Budget conscious,"Delivery Partner, Driver",Delhi

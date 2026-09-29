@@ -1,0 +1,819 @@
+customer_id,age,gender,occupation,education,annual_income,city,state,country,spending_score,purchase_frequency,website_visits_per_month,avg_order_value,preferred_channel,interests,lifestyle
+CS0680,50.0,Female,Business Owner,Graduate,1396000.0,Bengaluru,Karnataka,India,60.0,9.0,14.0,2410.0,Instagram,Cooling Products,Family first
+CS0472,40.0,Female,Driver,High School,427000.0,Delhi,Delhi,India,21.0,3.0,13.0,650.0,Push Notification,Hydration Tips,Budget conscious
+CS0457,27.0,MALE,Delivery Partner,High School,285000.0,mumbai,Maharashtra,India,42.0,6.0,9.0,460.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0644,26.0,Male,Software Engineer,Graduate,544000.0,Pune,Maharashtra,India,76.0,3.0,30.0,840.0,Reddit,AI Forecasting,Sustainability minded
+CS0747,27.0,Male,Software Engineer,Postgraduate,469000.0,Mumbai,Maharashtra,India,91.0,3.0,22.0,1040.0,Reddit,Climate Data,Sustainability minded
+CS0128,,Male,Construction Worker,Diploma,282000.0,Pune,Maharashtra,India,40.0,4.0,11.0,760.0,SMS,Hydration Tips,Long outdoor hours
+CS0738,26.0,Other,Data Analyst,Graduate,786000.0,Delhi,Delhi,India,45.0,5.0,26.0,230.0,Instagram,Climate Data,Digital native
+CS0035,51.0,Male,Delivery Partner,Diploma,307000.0,Pune,Maharashtra,India,49.0,6.0,10.0,530.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0300,43.0,Male,Doctor,Postgraduate,934000.0,Pune,Maharashtra,India,60.0,6.0,14.0,2390.0,Email,Child and Elder Care,Family first
+CS0095,25.0,Female,Student,Postgraduate,598000.0,Mumbai,Maharashtra,India,74.0,1.0,28.0,690.0,YouTube,Climate Data,Sustainability minded
+CS0622,47.0,Female,Teacher,Graduate,1334000.0,Bengaluru,Karnataka,India,84.0,12.0,15.0,2800.0,Instagram,Cooling Products,Family first
+CS0755,22.0,Male,Researcher,Postgraduate,675000.0,Delhi,Delhi,India,59.0,3.0,18.0,730.0,Reddit,AI Forecasting,Digital native
+CS0160,52.0,Female,Facility Manager,Postgraduate,2088000.0,Delhi,Delhi,India,34.0,2.0,11.0,6350.0,LinkedIn,Urban Heat Policy,Community focused
+CS0620,59.0,Female,NGO Manager,Doctorate,1791000.0,Delhi,Delhi,India,30.0,2.0,9.0,4650.0,Email,Urban Heat Policy,Policy driven
+CS0696,23.0,Male,Researcher,Postgraduate,717000.0,Bengaluru,Karnataka,India,52.0,4.0,30.0,1200.0,Reddit,AI Forecasting,Digital native
+CS0126,47.0,Female,Doctor,Graduate,919000.0,Ahmedabad,Gujarat,India,73.0,19.0,13.0,2200.0,Email,Cooling Products,Health conscious
+CS0328,47.0,Male,Homemaker,Graduate,957000.0,Pune,Maharashtra,India,62.0,14.0,10.0,3420.0,Facebook,Cooling Products,Health conscious
+CS0693,58.0,Male,Municipal Officer,Doctorate,2271000.0,Delhi,Delhi,India,23.0,2.0,11.0,5490.0,Email,Urban Heat Policy,Community focused
+CS0415,55.0,male,Municipal Officer,Postgraduate,2056000.0,Mumbai,Maharashtra,India,27.0,1.0,16.0,4010.0,Email,Early Warning Systems,Community focused
+CS0466,35.0,Male,Construction Worker,Diploma,216000.0,Delhi,Delhi,India,30.0,2.0,12.0,730.0,SMS,Hydration Tips,Long outdoor hours
+CS0548,48.0,Male,Facility Manager,Doctorate,2740000.0,Pune,Maharashtra,India,37.0,2.0,11.0,5840.0,Webinar,Early Warning Systems,Policy driven
+CS0391,50.0,Female,Facility Manager,Postgraduate,2816000.0,Pune,Maharashtra,India,38.0,1.0,8.0,4500.0,LinkedIn,Disaster Preparedness,Community focused
+CS0206,44.0,M,Construction Worker,Diploma,302000.0,Ahmedabad,Gujarat,India,31.0,6.0,10.0,590.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0550,51.0,MALE,Business Owner,Postgraduate,831000.0,Bengaluru,Karnataka,India,75.0,7.0,15.0,2840.0,Facebook,Child and Elder Care,Family first
+CS0529,31.0,Female,Researcher,Graduate,463000.0,Mumbai,Maharashtra,India,78.0,2.0,25.0,410.0,Reddit,AI Forecasting,Sustainability minded
+CS0054,37.0,Female,Business Owner,Graduate,865000.0,Pune,Maharashtra,India,60.0,13.0,10.0,2300.0,Instagram,Child and Elder Care,Family first
+CS0205,46.0,Other,Driver,High School,213000.0,Bengaluru,Karnataka,India,44.0,4.0,9.0,,Push Notification,Heat Safety Alerts,Budget conscious
+CS0741,43.0,Female,Doctor,Postgraduate,883000.0,Ahmedabad,Gujarat,India,71.0,13.0,19.0,2060.0,Email,Health Advisories,Health conscious
+CS0603,21.0,Female,Software Engineer,Postgraduate,767000.0,Ahmedabad,Gujarat,India,70.0,1.0,24.0,1200.0,Instagram,AI Forecasting,Digital native
+CS0783,,Male,Driver,Diploma,268000.0,Bombay,Maharashtra,India,29.0,3.0,5.0,850.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0443,35.0,Female,Delivery Partner,Diploma,211000.0,Mumbai,Maharashtra,India,28.0,5.0,6.0,350.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0187,24.0,Male,Student,Postgraduate,456000.0,Bengaluru,Karnataka,India,49.0,3.0,23.0,690.0,Reddit,AI Forecasting,Digital native
+CS0506,55.0,female,Facility Manager,Doctorate,2283000.0,Pune,Maharashtra,India,37.0,0.0,10.0,5500.0,LinkedIn,Early Warning Systems,Community focused
+CS0460,56.0,male,NGO Manager,Doctorate,1474000.0,Mumbai,Maharashtra,India,35.0,1.0,14.0,5240.0,Webinar,Early Warning Systems,Community focused
+CS0492,21.0,MALE,Student,Graduate,847000.0,Pune,Maharashtra,India,83.0,2.0,15.0,870.0,Instagram,Open Data and APIs,Sustainability minded
+CS0297,25.0,Male,Construction Worker,High School,197000.0,Mumbai,Maharashtra,India,40.0,8.0,12.0,890.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0795,48.0,Male,Municipal Officer,Postgraduate,1787000.0,delhi,Delhi,India,14.0,2.0,16.0,5640.0,Email,Urban Heat Policy,Policy driven
+CS0493,49.0,Male,Facility Manager,Doctorate,2413000.0,New Delhi ,Delhi,India,22.0,3.0,15.0,5120.0,LinkedIn,Early Warning Systems,Community focused
+CS0245,39.0,Male,Construction Worker,High School,188000.0,Ahmedabad,Gujarat,India,48.0,4.0,8.0,,WhatsApp,Hydration Tips,Budget conscious
+CS0139,55.0,female,Facility Manager,Postgraduate,2217000.0,Bengaluru,Karnataka,India,19.0,2.0,13.0,3690.0,Webinar,Urban Heat Policy,Policy driven
+CS0494,23.0,male,Researcher,Postgraduate,718000.0,Mumbai,Maharashtra,India,41.0,4.0,30.0,1350.0,YouTube,AI Forecasting,Digital native
+CS0667,41.0,Male,Urban Planner,Postgraduate,2221000.0,Ahmedabad,Gujarat,India,28.0,1.0,17.0,4430.0,LinkedIn,Early Warning Systems,Community focused
+CS0221,49.0,Male,Municipal Officer,Doctorate,2459000.0,Ahmedabad,Gujarat,India,42.0,1.0,14.0,,Webinar,Disaster Preparedness,Community focused
+CS0262,39.0,Female,Business Owner,Postgraduate,744000.0,Mumbai,Maharashtra,India,85.0,15.0,12.0,2540.0,Facebook,Health Advisories,Health conscious
+CS0062,44.0,Female,Facility Manager,Postgraduate,2015000.0,delhi,Delhi,India,31.0,2.0,11.0,6290.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0798,43.0,Male,Teacher,Graduate,1618000.0,Mumbai,Maharashtra,India,73.0,13.0,9.0,2240.0,Email,Child and Elder Care,Health conscious
+CS0361,53.0,Male,Urban Planner,Doctorate,2137000.0,New Delhi ,Delhi,India,19.0,3.0,10.0,6620.0,Webinar,Urban Heat Policy,Community focused
+CS0337,21.0,Female,Software Engineer,Graduate,648000.0,Pune,Maharashtra,India,70.0,4.0,28.0,1230.0,Reddit,Open Data and APIs,Digital native
+CS0468,26.0,Male,Student,Graduate,655000.0,Pune,Maharashtra,India,48.0,4.0,21.0,,Reddit,Climate Data,Sustainability minded
+CS0420,29.0,Male,Business Owner,Postgraduate,724000.0,Pune,Maharashtra,India,75.0,16.0,12.0,2790.0,Email,Health Advisories,Family first
+CS0265,22.0,F,Software Engineer,Graduate,727000.0,Mumbai,Maharashtra,India,69.0,4.0,22.0,1090.0,YouTube,AI Forecasting,Sustainability minded
+CS0408,52.0,Female,Municipal Officer,Doctorate,2852000.0,Bengaluru,Karnataka,India,31.0,1.0,7.0,6680.0,Webinar,Disaster Preparedness,Policy driven
+CS0149,47.0,Female,Facility Manager,Doctorate,1860000.0,Ahmedabad,Gujarat,India,19.0,2.0,10.0,3730.0,LinkedIn,Early Warning Systems,Policy driven
+CS0777,37.0,MALE,Homemaker,Postgraduate,1196000.0,Bengaluru,Karnataka,India,69.0,19.0,12.0,2630.0,Instagram,Health Advisories,Family first
+CS0514,42.0,Female,Delivery Partner,Diploma,262000.0,Pune,Maharashtra,India,42.0,3.0,12.0,520.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0064,32.0,Male,Teacher,Graduate,930000.0,Delhi,Delhi,India,73.0,8.0,14.0,2330.0,Facebook,Health Advisories,Family first
+CS0064,32.0,Male,Teacher,Graduate,930000.0,Delhi,Delhi,India,73.0,8.0,14.0,2330.0,Facebook,Health Advisories,Family first
+CS0014,25.0,Male,Delivery Partner,High School,258000.0,Delhi,Delhi,India,24.0,3.0,8.0,640.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0761,50.0,Male,Municipal Officer,Doctorate,2006000.0,Mumbai,Maharashtra,India,24.0,2.0,13.0,5890.0,Webinar,Disaster Preparedness,Policy driven
+CS0617,18.0,Male,Researcher,Postgraduate,616000.0,Delhi,Delhi,India,66.0,2.0,28.0,740.0,Instagram,AI Forecasting,Digital native
+CS0553,36.0,Male,Construction Worker,Diploma,359000.0,Pune,Maharashtra,India,39.0,2.0,9.0,550.0,SMS,Hydration Tips,Budget conscious
+CS0245,39.0,Male,Construction Worker,High School,188000.0,Ahmedabad,Gujarat,India,48.0,4.0,8.0,,WhatsApp,Hydration Tips,Budget conscious
+CS0782,57.0,FEMALE,Urban Planner,Postgraduate,2266000.0,Bengaluru,Karnataka,India,31.0,3.0,13.0,5120.0,Webinar,Disaster Preparedness,Community focused
+CS0169,32.0,Female,Teacher,Postgraduate,1023000.0,Bengaluru,Karnataka,India,82.0,12.0,19.0,2940.0,Email,Child and Elder Care,Health conscious
+CS0668,35.0,M,Construction Worker,High School,308000.0,Mumbai,Maharashtra,India,48.0,1.0,8.0,860.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0652,39.0,Female,Street Vendor,High School,355000.0,Ahmedabad,Gujarat,India,36.0,6.0,8.0,490.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0508,56.0,Male,Municipal Officer,Postgraduate,2184000.0,Ahmedabad,Gujarat,India,24.0,1.0,15.0,5370.0,Email,Disaster Preparedness,Community focused
+CS0587,34.0,Male,Urban Planner,Postgraduate,2786000.0,Mumbai,Maharashtra,India,29.0,1.0,12.0,7050.0,LinkedIn,Early Warning Systems,Community focused
+CS0448,28.0,Female,Delivery Partner,High School,309000.0,Pune,Maharashtra,India,36.0,4.0,9.0,730.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0135,41.0,Female,Doctor,Graduate,951000.0,Bengaluru,Karnataka,India,80.0,11.0,18.0,3020.0,Facebook,Cooling Products,Health conscious
+CS0642,45.0,Male,NGO Manager,Doctorate,2097000.0,Ahmedabad,Gujarat,India,26.0,3.0,15.0,4500.0,LinkedIn,Urban Heat Policy,Community focused
+CS0254,43.0,Female,Street Vendor,High School,296000.0,Mumbai,Maharashtra,India,34.0,5.0,7.0,790.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0373,40.0,female,Teacher,Postgraduate,1156000.0,Delhi,Delhi,India,59.0,14.0,16.0,2560.0,Instagram,Cooling Products,Health conscious
+CS0625,47.0,Female,Homemaker,Graduate,1084000.0,Delhi,Delhi,India,63.0,10.0,21.0,3050.0,Instagram,Child and Elder Care,Family first
+CS0141,26.0,male,Construction Worker,High School,338000.0,Delhi,Delhi,India,50.0,4.0,8.0,720.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0526,38.0,Female,Construction Worker,High School,255000.0,Delhi,Delhi,India,20.0,5.0,15.0,480.0,,Heat Safety Alerts,Long outdoor hours
+CS0180,24.0,Male,Software Engineer,Graduate,596000.0,Ahmedabad,Gujarat,India,86.0,3.0,31.0,430.0,Reddit,Climate Data,Sustainability minded
+CS0386,44.0,Female,Business Owner,Postgraduate,1284000.0,Mumbai,Maharashtra,India,58.0,13.0,14.0,2920.0,Instagram,Cooling Products,Family first
+CS0049,19.0,Male,Researcher,Graduate,735000.0,Pune,Maharashtra,India,54.0,3.0,20.0,770.0,,Climate Data,Sustainability minded
+CS0301,41.0,Male,Delivery Partner,High School,343000.0,Delhi,Delhi,India,43.0,5.0,11.0,450.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0615,57.0,MALE,Facility Manager,Postgraduate,2286000.0,Delhi,Delhi,India,37.0,2.0,10.0,4830.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0383,25.0,Male,Delivery Partner,High School,255000.0,Pune,Maharashtra,India,38.0,5.0,5.0,710.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0471,39.0,Other,Business Owner,Postgraduate,937000.0,Bengaluru,Karnataka,India,72.0,14.0,13.0,2730.0,Instagram,Child and Elder Care,Health conscious
+CS0210,30.0,Female,Researcher,Postgraduate,543000.0,Mumbai,Maharashtra,India,66.0,3.0,30.0,810.0,YouTube,AI Forecasting,Digital native
+CS0099,34.0,Male,Street Vendor,High School,273000.0,Ahmedabad,Gujarat,India,41.0,5.0,6.0,680.0,SMS,Heat Safety Alerts,Budget conscious
+CS0016,49.0,Male,Business Owner,Postgraduate,1159000.0,Bangalore,Karnataka,India,77.0,9.0,15.0,2810.0,Facebook,Child and Elder Care,Family first
+CS0309,44.0,F,Doctor,Postgraduate,621000.0,Bengaluru,Karnataka,India,63.0,16.0,14.0,2550.0,Email,Cooling Products,Family first
+CS0061,24.0,Male,Data Analyst,Postgraduate,587000.0,Pune,Maharashtra,India,66.0,2.0,21.0,790.0,YouTube,Open Data and APIs,Sustainability minded
+CS0047,45.0,Female,Doctor,Graduate,811000.0,Delhi,Delhi,India,87.0,12.0,16.0,2900.0,Instagram,Cooling Products,Health conscious
+CS0740,41.0,Female,Street Vendor,High School,292000.0,Pune,Maharashtra,India,50.0,6.0,7.0,730.0,SMS,Hydration Tips,Budget conscious
+CS0432,,Male,Data Analyst,Graduate,321000.0,New Delhi ,Delhi,India,63.0,2.0,27.0,710.0,Reddit,Climate Data,Digital native
+CS0557,38.0,Male,Street Vendor,Diploma,257000.0,Pune,Maharashtra,India,29.0,7.0,11.0,490.0,SMS,Work Hour Advisories,Budget conscious
+CS0745,49.0,Male,Construction Worker,Diploma,210000.0,Ahmedabad,Gujarat,India,44.0,3.0,10.0,210.0,Push Notification,Hydration Tips,Budget conscious
+CS0356,44.0,Female,Urban Planner,Doctorate,1958000.0,Mumbai,Maharashtra,India,37.0,3.0,13.0,3440.0,Email,Disaster Preparedness,Policy driven
+CS0058,36.0,Female,Teacher,Graduate,943000.0,Ahmedabad,Gujarat,India,62.0,13.0,11.0,1940.0,Email,Health Advisories,Health conscious
+CS0635,56.0,Female,Urban Planner,Doctorate,1894000.0,Bengaluru,Karnataka,India,24.0,2.0,10.0,5450.0,Webinar,Disaster Preparedness,Policy driven
+CS0295,51.0,Male,Teacher,Graduate,1385000.0,Mumbai,Maharashtra,India,,12.0,13.0,2690.0,Instagram,Health Advisories,Family first
+CS0563,18.0,Male,Student,Postgraduate,809000.0,Bengaluru,Karnataka,India,66.0,3.0,32.0,1040.0,Reddit,AI Forecasting,Digital native
+CS0750,35.0,Male,Delivery Partner,Diploma,199000.0,Ahmedabad,Gujarat,India,41.0,1.0,11.0,790.0,SMS,Hydration Tips,Budget conscious
+CS0700,47.0,Female,NGO Manager,Postgraduate,2041000.0,Pune,Maharashtra,India,30.0,2.0,14.0,5210.0,Email,Urban Heat Policy,Community focused
+CS0359,48.0,Male,Delivery Partner,High School,219000.0,Mumbai,Maharashtra,India,33.0,3.0,11.0,770.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0109,,Male,Driver,High School,341000.0,Bombay,Maharashtra,India,41.0,6.0,8.0,530.0,Push Notification,Hydration Tips,Budget conscious
+CS0260,47.0,Male,Doctor,Graduate,785000.0,Pune,Maharashtra,India,72.0,11.0,15.0,2850.0,Email,Child and Elder Care,Health conscious
+CS0566,28.0,Male,Researcher,Postgraduate,422000.0,Pune,Maharashtra,India,66.0,3.0,24.0,1140.0,YouTube,Open Data and APIs,Digital native
+CS0382,39.0,Male,Driver,High School,289000.0,Ahmedabad,Gujarat,India,25.0,6.0,6.0,650.0,SMS,Work Hour Advisories,Budget conscious
+CS0055,45.0,Female,Business Owner,Graduate,949000.0,Delhi,Delhi,India,78.0,11.0,9.0,2880.0,Email,Child and Elder Care,Health conscious
+CS0681,22.0,Male,Researcher,Graduate,336000.0,Ahmedabad,Gujarat,India,55.0,3.0,21.0,830.0,Instagram,Open Data and APIs,Sustainability minded
+CS0456,35.0,Female,Driver,High School,195000.0,Mumbai,Maharashtra,India,28.0,8.0,5.0,550.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0728,26.0,Male,Researcher,Postgraduate,665000.0,Mumbai,Maharashtra,India,63.0,5.0,36.0,1140.0,Reddit,Climate Data,Sustainability minded
+CS0418,41.0,Other,Construction Worker,High School,221000.0,Ahmedabad,Gujarat,India,36.0,3.0,7.0,510.0,whatsapp,Heat Safety Alerts,Long outdoor hours
+CS0192,47.0,Female,Homemaker,Graduate,691000.0,Delhi,Delhi,India,76.0,12.0,13.0,1830.0,Email,Health Advisories,Health conscious
+CS0252,23.0,Male,Student,Postgraduate,623000.0,Delhi,Delhi,India,39.0,3.0,25.0,1210.0,,AI Forecasting,Sustainability minded
+CS0111,38.0,female,Homemaker,Graduate,1154000.0,New Delhi ,Delhi,India,72.0,13.0,14.0,2230.0,Email,Cooling Products,Family first
+CS0154,45.0,Female,Facility Manager,Postgraduate,1671000.0,Pune,Maharashtra,India,26.0,1.0,10.0,5300.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0372,52.0,Male,NGO Manager,Postgraduate,2229000.0,Pune,Maharashtra,India,28.0,3.0,13.0,5890.0,Email,Urban Heat Policy,Community focused
+CS0389,20.0,Female,Researcher,Graduate,423000.0,Mumbai,Maharashtra,India,72.0,2.0,34.0,910.0,YouTube,Climate Data,Digital native
+CS0388,39.0,Male,Homemaker,Graduate,1165000.0,Pune,Maharashtra,India,80.0,12.0,14.0,2570.0,Instagram,Cooling Products,Health conscious
+CS0654,36.0,Female,Construction Worker,Diploma,218000.0,Mumbai,Maharashtra,India,27.0,5.0,10.0,890.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0272,37.0,Male,Delivery Partner,High School,236000.0,Delhi,Delhi,India,30.0,6.0,6.0,550.0,SMS,Hydration Tips,Long outdoor hours
+CS0559,18.0,Male,Student,Postgraduate,629000.0,Bengaluru,Karnataka,India,60.0,2.0,27.0,940.0,YouTube,Climate Data,Sustainability minded
+CS0535,60.0,Female,Urban Planner,Doctorate,2054000.0,Ahmedabad,Gujarat,India,18.0,2.0,9.0,4960.0,Email,Urban Heat Policy,Community focused
+CS0593,39.0,Male,Teacher,Graduate,744000.0,Mumbai,Maharashtra,India,71.0,16.0,12.0,2950.0,Instagram,Cooling Products,Family first
+CS0354,35.0,Male,Business Owner,Postgraduate,1227000.0,Ahmedabad,Gujarat,India,72.0,13.0,15.0,2080.0,Instagram,Child and Elder Care,Family first
+CS0744,41.0,male,Business Owner,Postgraduate,,Delhi,Delhi,India,77.0,17.0,15.0,2030.0,Email,Child and Elder Care,Family first
+CS0143,24.0,Female,Data Analyst,Graduate,607000.0,Pune,Maharashtra,India,58.0,6.0,27.0,1110.0,YouTube,Open Data and APIs,Sustainability minded
+CS0240,44.0,Male,Homemaker,Graduate,992000.0,Pune,Maharashtra,India,72.0,13.0,17.0,,Email,Cooling Products,Family first
+CS0568,27.0,Male,Data Analyst,Graduate,486000.0,Pune,Maharashtra,India,57.0,3.0,24.0,1290.0,Instagram,Climate Data,Digital native
+CS0051,46.0,FEMALE,Business Owner,Graduate,1030000.0,Bengaluru,Karnataka,India,77.0,9.0,15.0,2300.0,Facebook,Cooling Products,Health conscious
+CS0707,47.0,Female,Street Vendor,Diploma,308000.0,Delhi,Delhi,India,38.0,6.0,6.0,460.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0501,45.0,Male,Urban Planner,Doctorate,2475000.0,Bengaluru,Karnataka,India,25.0,2.0,14.0,5560.0,LinkedIn,Early Warning Systems,Community focused
+CS0329,22.0,Male,Software Engineer,Graduate,479000.0,Pune,Maharashtra,India,77.0,4.0,23.0,760.0,,Open Data and APIs,Sustainability minded
+CS0790,44.0,Female,Street Vendor,High School,322000.0,Ahmedabad,Gujarat,India,23.0,5.0,6.0,720.0,SMS,Hydration Tips,Budget conscious
+CS0565,46.0,Male,Homemaker,Graduate,1098000.0,Bengaluru,Karnataka,India,69.0,16.0,15.0,2490.0,Instagram,Health Advisories,Family first
+CS0398,43.0,Male,Teacher,Graduate,1153000.0,Pune,Maharashtra,India,75.0,10.0,13.0,3950.0,Facebook,Cooling Products,Health conscious
+CS0067,39.0,Female,Street Vendor,High School,251000.0,Mumbai,Maharashtra,India,43.0,2.0,9.0,950.0,SMS,Work Hour Advisories,Budget conscious
+CS0583,,Female,Software Engineer,Graduate,,Bengaluru,Karnataka,India,65.0,3.0,24.0,710.0,YouTube,AI Forecasting,Sustainability minded
+CS0010,27.0,Female,Researcher,Graduate,782000.0,Bengaluru,Karnataka,India,62.0,3.0,34.0,1420.0,Instagram,AI Forecasting,Digital native
+CS0588,22.0,Female,Delivery Partner,High School,284000.0,Delhi,Delhi,India,25.0,3.0,8.0,540.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0147,27.0,M,Driver,High School,338000.0,Pune,Maharashtra,India,21.0,1.0,7.0,550.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0368,44.0,Female,Construction Worker,High School,280000.0,Mumbai,Maharashtra,India,,8.0,8.0,530.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0307,24.0,Female,Data Analyst,Graduate,554000.0,bengaluru,Karnataka,India,61.0,3.0,19.0,710.0,Reddit,Open Data and APIs,Sustainability minded
+CS0582,49.0,Male,Doctor,Graduate,1376000.0,Delhi,Delhi,India,73.0,10.0,13.0,1760.0,Instagram,Cooling Products,Family first
+CS0253,30.0,M,Construction Worker,Diploma,388000.0,Delhi,Delhi,India,43.0,7.0,9.0,570.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0595,45.0,Female,Street Vendor,High School,266000.0,Delhi,Delhi,India,45.0,3.0,5.0,670.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0558,45.0,Female,Urban Planner,Doctorate,1714000.0,Mumbai,Maharashtra,India,20.0,3.0,10.0,5070.0,Email,Early Warning Systems,Policy driven
+CS0065,33.0,male,Delivery Partner,Diploma,166000.0,Delhi,Delhi,India,56.0,7.0,7.0,1000.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0688,28.0,Female,Construction Worker,High School,211000.0,Mumbai,Maharashtra,India,35.0,4.0,12.0,660.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0519,28.0,Male,Researcher,Postgraduate,571000.0,Pune,Maharashtra,India,61.0,3.0,25.0,960.0,Reddit,Open Data and APIs,Sustainability minded
+CS0189,39.0,Other,Homemaker,Postgraduate,1413000.0,Pune,Maharashtra,India,59.0,9.0,15.0,2190.0,Facebook,Child and Elder Care,Family first
+CS0358,40.0,Male,Street Vendor,Diploma,291000.0,Delhi,Delhi,India,40.0,5.0,9.0,1080.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0427,45.0,Male,Delivery Partner,High School,264000.0,Pune,Maharashtra,India,41.0,7.0,4.0,770.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0347,50.0,Female,Facility Manager,Postgraduate,1858000.0,Mumbai,Maharashtra,India,30.0,3.0,11.0,3910.0,Email,Urban Heat Policy,Policy driven
+CS0627,49.0,Male,Facility Manager,Postgraduate,2259000.0,Bombay,Maharashtra,India,34.0,2.0,8.0,7040.0,Email,Early Warning Systems,Policy driven
+CS0658,61.0,Male,NGO Manager,Doctorate,2469000.0,Delhi,Delhi,India,32.0,0.0,8.0,5040.0,Webinar,Early Warning Systems,Community focused
+CS0675,40.0,Female,NGO Manager,Postgraduate,1786000.0,Mumbai,Maharashtra,India,27.0,1.0,8.0,4740.0,Email,Urban Heat Policy,Policy driven
+CS0734,39.0,Female,Driver,Diploma,321000.0,Mumbai,Maharashtra,India,39.0,7.0,9.0,570.0,SMS,Work Hour Advisories,Budget conscious
+CS0776,48.0,Male,Business Owner,Postgraduate,1246000.0,Bengaluru,Karnataka,India,70.0,11.0,14.0,2230.0,Email,Child and Elder Care,Family first
+CS0378,46.0,Other,Urban Planner,Doctorate,2501000.0,Delhi,Delhi,India,25.0,2.0,7.0,5380.0,Email,Disaster Preparedness,Community focused
+CS0233,33.0,Female,Delivery Partner,High School,256000.0,Mumbai,Maharashtra,India,46.0,4.0,4.0,500.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0317,24.0,female,Data Analyst,Graduate,543000.0,Ahmedabad,Gujarat,India,81.0,4.0,19.0,1210.0,Instagram,AI Forecasting,Sustainability minded
+CS0676,21.0,Male,Student,Graduate,367000.0,Bengaluru,Karnataka,India,62.0,2.0,19.0,1540.0,YouTube,AI Forecasting,Sustainability minded
+CS0271,31.0,female,Delivery Partner,Diploma,317000.0,Mumbai,Maharashtra,India,34.0,5.0,6.0,610.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0660,49.0,Female,Urban Planner,Postgraduate,2157000.0,Bengaluru,Karnataka,India,33.0,3.0,11.0,5470.0,Webinar,Early Warning Systems,Policy driven
+CS0757,23.0,Male,Data Analyst,Graduate,422000.0,Pune,Maharashtra,India,,4.0,19.0,360.0,YouTube,Climate Data,Digital native
+CS0286,26.0,Male,Construction Worker,High School,348000.0,Delhi,Delhi,India,35.0,5.0,10.0,640.0,whatsapp,Work Hour Advisories,Long outdoor hours
+CS0193,,Male,Teacher,Graduate,1154000.0,Ahmedabad,Gujarat,India,79.0,13.0,18.0,2790.0,Facebook,Cooling Products,Health conscious
+CS0768,46.0,Female,Urban Planner,Postgraduate,2479000.0,Delhi,Delhi,India,30.0,3.0,12.0,6050.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0640,26.0,Female,Researcher,Postgraduate,623000.0,Delhi,Delhi,India,73.0,1.0,20.0,1420.0,YouTube,Open Data and APIs,Sustainability minded
+CS0763,54.0,Female,Municipal Officer,Postgraduate,1176000.0,Mumbai,Maharashtra,India,36.0,2.0,14.0,3230.0,LinkedIn,Disaster Preparedness,Community focused
+CS0759,57.0,Male,Facility Manager,Postgraduate,2755000.0,Delhi,Delhi,India,31.0,3.0,15.0,4360.0,Webinar,Early Warning Systems,Policy driven
+CS0736,23.0,Female,Data Analyst,Postgraduate,394000.0,mumbai,Maharashtra,India,62.0,1.0,17.0,820.0,YouTube,Climate Data,Digital native
+CS0075,43.0,Male,Street Vendor,High School,274000.0,Bengaluru,Karnataka,India,34.0,6.0,5.0,590.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0243,63.0,Female,Urban Planner,Postgraduate,1639000.0,Delhi,Delhi,India,34.0,2.0,15.0,5390.0,Email,Early Warning Systems,Community focused
+CS0230,45.0,Female,Driver,Diploma,181000.0,Mumbai,Maharashtra,India,40.0,3.0,5.0,900.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0129,42.0,Female,Teacher,Postgraduate,1110000.0,Pune,Maharashtra,India,70.0,12.0,16.0,2650.0,Facebook,Health Advisories,Health conscious
+CS0639,27.0,Female,Software Engineer,Graduate,516000.0,Bengaluru,Karnataka,India,60.0,4.0,31.0,1130.0,Instagram,AI Forecasting,Sustainability minded
+CS0110,39.0,Female,Teacher,Graduate,1165000.0,Pune,Maharashtra,India,91.0,10.0,17.0,1500.0,Email,Child and Elder Care,Family first
+CS0026,39.0,Female,Driver,Diploma,263000.0,Ahmedabad,Gujarat,India,45.0,5.0,8.0,390.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0453,26.0,M,Construction Worker,Diploma,198000.0,Mumbai,Maharashtra,India,33.0,5.0,11.0,470.0,whatsapp,Heat Safety Alerts,Budget conscious
+CS0452,40.0,Male,Teacher,Graduate,,Delhi,Delhi,India,66.0,16.0,18.0,2070.0,Instagram,Cooling Products,Health conscious
+CS0569,44.0,Female,Doctor,Graduate,1088000.0,Mumbai,Maharashtra,India,80.0,10.0,10.0,2650.0,Instagram,Health Advisories,Family first
+CS0737,31.0,Female,Teacher,Postgraduate,717000.0,Pune,Maharashtra,India,75.0,14.0,17.0,2900.0,Instagram,Child and Elder Care,Family first
+CS0306,31.0,Male,Student,Graduate,651000.0,Bengaluru,Karnataka,India,71.0,5.0,18.0,740.0,Reddit,AI Forecasting,Digital native
+CS0257,35.0,Female,Construction Worker,Diploma,278000.0,Ahmedabad,Gujarat,India,33.0,5.0,7.0,640.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0541,45.0,Female,NGO Manager,Postgraduate,1706000.0,Delhi,Delhi,India,30.0,2.0,15.0,5670.0,LinkedIn,Early Warning Systems,Policy driven
+CS0657,,Female,Facility Manager,Postgraduate,2355000.0,Pune,Maharashtra,India,16.0,2.0,15.0,4540.0,Email,Early Warning Systems,Community focused
+CS0100,40.0,Male,Facility Manager,Doctorate,2164000.0,Bengaluru,Karnataka,India,32.0,1.0,12.0,5320.0,Webinar,Early Warning Systems,Community focused
+CS0025,52.0,F,Teacher,Postgraduate,1117000.0,Pune,Maharashtra,India,69.0,8.0,16.0,2970.0,Facebook,Cooling Products,Family first
+CS0502,26.0,Female,Student,Postgraduate,488000.0,Delhi,Delhi,India,65.0,6.0,19.0,390.0,Instagram,Climate Data,Sustainability minded
+CS0223,48.0,Male,NGO Manager,Postgraduate,2153000.0,Bengaluru,Karnataka,India,22.0,2.0,11.0,5380.0,Webinar,Urban Heat Policy,Policy driven
+CS0284,25.0,M,Software Engineer,Postgraduate,298000.0,Bengaluru,Karnataka,India,63.0,2.0,21.0,480.0,Instagram,AI Forecasting,Sustainability minded
+CS0663,31.0,Female,Teacher,Postgraduate,617000.0,Delhi,Delhi,India,62.0,9.0,10.0,1850.0,Instagram,Health Advisories,Health conscious
+CS0219,37.0,Male,Street Vendor,High School,305000.0,Mumbai,Maharashtra,India,38.0,5.0,6.0,840.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0534,32.0,MALE,Facility Manager,Doctorate,2532000.0,Bengaluru,Karnataka,India,4.0,1.0,8.0,4220.0,LinkedIn,Early Warning Systems,Community focused
+CS0396,41.0,Female,Teacher,Graduate,1188000.0,Ahmedabad,Gujarat,India,77.0,10.0,9.0,2050.0,Email,Health Advisories,Health conscious
+CS0390,,Female,Street Vendor,High School,287000.0,Delhi,Delhi,India,40.0,4.0,9.0,440.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0071,21.0,Female,Student,Postgraduate,631000.0,Bengaluru,Karnataka,India,60.0,4.0,25.0,620.0,Reddit,Open Data and APIs,Digital native
+CS0607,56.0,Male,NGO Manager,Postgraduate,2740000.0,Ahmedabad,Gujarat,India,33.0,2.0,8.0,5030.0,Email,Urban Heat Policy,Policy driven
+CS0467,19.0,Male,Student,Graduate,800000.0,Delhi,Delhi,India,65.0,2.0,34.0,920.0,YouTube,AI Forecasting,Digital native
+CS0486,26.0,Male,Researcher,Postgraduate,599000.0,Pune,Maharashtra,India,47.0,2.0,30.0,800.0,Instagram,Climate Data,Sustainability minded
+CS0673,29.0,Female,Street Vendor,High School,,Mumbai,Maharashtra,India,38.0,5.0,12.0,740.0,SMS,Hydration Tips,Long outdoor hours
+CS0393,44.0,Male,Urban Planner,Postgraduate,2232000.0,Delhi,Delhi,India,40.0,1.0,15.0,3520.0,Webinar,Early Warning Systems,Policy driven
+CS0490,30.0,male,Street Vendor,Diploma,226000.0,Bengaluru,Karnataka,India,26.0,5.0,7.0,,SMS,Hydration Tips,Budget conscious
+CS0717,23.0,Male,Software Engineer,Postgraduate,560000.0,Pune,Maharashtra,India,,6.0,33.0,1330.0,Instagram,Climate Data,Digital native
+CS0464,26.0,Male,Researcher,Postgraduate,529000.0,Mumbai,Maharashtra,India,62.0,1.0,25.0,970.0,Instagram,Open Data and APIs,Digital native
+CS0797,20.0,Female,Driver,Diploma,248000.0,Delhi,Delhi,India,27.0,7.0,6.0,640.0,SMS,Work Hour Advisories,Budget conscious
+CS0500,24.0,Female,Software Engineer,Postgraduate,453000.0,Pune,Maharashtra,India,60.0,3.0,35.0,630.0,YouTube,AI Forecasting,Digital native
+CS0447,64.0,FEMALE,NGO Manager,Postgraduate,2636000.0,Delhi,Delhi,India,17.0,2.0,8.0,4360.0,Email,Disaster Preparedness,Community focused
+CS0290,50.0,Female,Homemaker,Graduate,889000.0,Mumbai,Maharashtra,India,80.0,12.0,15.0,2440.0,Instagram,Health Advisories,Health conscious
+CS0172,57.0,Male,Urban Planner,Doctorate,2715000.0,Bengaluru,Karnataka,India,13.0,2.0,14.0,5130.0,Webinar,Disaster Preparedness,Policy driven
+CS0397,25.0,female,Data Analyst,Postgraduate,637000.0,Bengaluru,Karnataka,India,54.0,4.0,22.0,1040.0,Reddit,Climate Data,Digital native
+CS0229,42.0,Male,Urban Planner,Postgraduate,1663000.0,Pune,Maharashtra,India,34.0,1.0,12.0,5960.0,LinkedIn,Urban Heat Policy,Community focused
+CS0412,44.0,Male,Doctor,Graduate,1110000.0,Mumbai,Maharashtra,India,57.0,9.0,18.0,3230.0,Facebook,Health Advisories,Family first
+CS0781,48.0,Male,Doctor,Postgraduate,1338000.0,Mumbai,Maharashtra,India,71.0,8.0,11.0,2530.0,Facebook,Health Advisories,Family first
+CS0545,49.0,Male,Urban Planner,Doctorate,2007000.0,Ahmedabad,Gujarat,India,38.0,3.0,16.0,4840.0,Webinar,Early Warning Systems,Policy driven
+CS0023,22.0,Male,Software Engineer,Postgraduate,400000.0,Delhi,Delhi,India,38.0,2.0,26.0,440.0,YouTube,Climate Data,Sustainability minded
+CS0665,24.0,Female,Data Analyst,Graduate,469000.0,Pune,Maharashtra,India,67.0,4.0,26.0,600.0,Instagram,Climate Data,Digital native
+CS0363,42.0,Male,Street Vendor,Diploma,325000.0,Mumbai,Maharashtra,India,37.0,5.0,9.0,590.0,SMS,Hydration Tips,Long outdoor hours
+CS0003,33.0,Male,Street Vendor,High School,318000.0,Ahmedabad,Gujarat,India,34.0,5.0,14.0,610.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0278,19.0,F,Software Engineer,Postgraduate,671000.0,Mumbai,Maharashtra,India,77.0,4.0,26.0,950.0,Instagram,AI Forecasting,Digital native
+CS0274,41.0,Male,Doctor,Graduate,1057000.0,Bengaluru,Karnataka,India,,15.0,17.0,2360.0,Email,Cooling Products,Health conscious
+CS0786,47.0,Female,Business Owner,Postgraduate,1142000.0,Bengaluru,Karnataka,India,59.0,10.0,13.0,2400.0,Instagram,Health Advisories,Family first
+CS0701,43.0,MALE,Driver,High School,367000.0,Mumbai,Maharashtra,India,16.0,6.0,10.0,680.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0133,34.0,Female,Street Vendor,High School,299000.0,Delhi,Delhi,India,39.0,4.0,13.0,570.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0200,20.0,Female,Data Analyst,Graduate,742000.0,Bombay,Maharashtra,India,58.0,5.0,30.0,1180.0,YouTube,Climate Data,Digital native
+CS0116,47.0,Female,Driver,High School,205000.0,Delhi,Delhi,India,39.0,6.0,8.0,460.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0352,44.0,Female,Doctor,Postgraduate,819000.0,Pune,Maharashtra,India,69.0,8.0,17.0,2530.0,Email,Health Advisories,Family first
+CS0672,38.0,Other,Street Vendor,High School,368000.0,Mumbai,Maharashtra,India,37.0,6.0,14.0,670.0,SMS,Heat Safety Alerts,Budget conscious
+CS0626,42.0,M,Homemaker,Graduate,1221000.0,Mumbai,Maharashtra,India,70.0,12.0,11.0,2500.0,Facebook,Child and Elder Care,Family first
+CS0400,25.0,Female,Student,Postgraduate,588000.0,Bengaluru,Karnataka,India,51.0,3.0,36.0,1300.0,Instagram,AI Forecasting,Digital native
+CS0066,42.0,Male,Business Owner,Graduate,1047000.0,Mumbai,Maharashtra,India,70.0,9.0,17.0,1620.0,Instagram,Cooling Products,Family first
+CS0591,40.0,FEMALE,Doctor,Postgraduate,1028000.0,Mumbai,Maharashtra,India,81.0,12.0,10.0,2650.0,Email,Cooling Products,Family first
+CS0052,39.0,Female,Construction Worker,High School,306000.0,Bengaluru,Karnataka,India,45.0,6.0,16.0,740.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0366,43.0,Male,Teacher,Graduate,1103000.0,Bengaluru,Karnataka,India,85.0,11.0,21.0,2750.0,Facebook,Health Advisories,Health conscious
+CS0531,48.0,Male,Urban Planner,Postgraduate,1749000.0,Mumbai,Maharashtra,India,27.0,3.0,15.0,3810.0,Webinar,Early Warning Systems,Community focused
+CS0454,18.0,male,Software Engineer,Graduate,602000.0,Pune,Maharashtra,India,70.0,5.0,25.0,1040.0,YouTube,AI Forecasting,Sustainability minded
+CS0570,31.0,Male,Business Owner,Graduate,993000.0,Mumbai,Maharashtra,India,71.0,14.0,16.0,2060.0,Facebook,Cooling Products,Family first
+CS0279,30.0,Female,Delivery Partner,Diploma,190000.0,Bengaluru,Karnataka,India,34.0,6.0,9.0,660.0,SMS,Work Hour Advisories,Budget conscious
+CS0327,38.0,Male,Teacher,Graduate,1025000.0,Bengaluru,Karnataka,India,79.0,14.0,11.0,2630.0,Facebook,Health Advisories,Family first
+CS0380,38.0,Female,Homemaker,Postgraduate,965000.0,Delhi,Delhi,India,67.0,12.0,13.0,2110.0,Facebook,Health Advisories,Health conscious
+CS0726,21.0,Female,Software Engineer,Graduate,515000.0,Bengaluru,Karnataka,India,48.0,5.0,24.0,840.0,YouTube,Climate Data,Sustainability minded
+CS0328,47.0,Male,Homemaker,Graduate,957000.0,Pune,Maharashtra,India,62.0,14.0,10.0,3420.0,Facebook,Cooling Products,Health conscious
+CS0446,45.0,Male,Doctor,Postgraduate,1563000.0,Delhi,Delhi,India,71.0,11.0,11.0,2090.0,Facebook,Child and Elder Care,Family first
+CS0534,32.0,MALE,Facility Manager,Doctorate,2532000.0,Bengaluru,Karnataka,India,4.0,1.0,8.0,4220.0,LinkedIn,Early Warning Systems,Community focused
+CS0410,18.0,Male,Delivery Partner,Diploma,329000.0,Mumbai,Maharashtra,India,50.0,8.0,6.0,,SMS,Hydration Tips,Long outdoor hours
+CS0082,45.0,Female,Construction Worker,Diploma,449000.0,Delhi,Delhi,India,41.0,6.0,9.0,800.0,SMS,Work Hour Advisories,Budget conscious
+CS0651,50.0,Female,Homemaker,Graduate,1192000.0,Pune,Maharashtra,India,55.0,9.0,11.0,1220.0,Instagram,Cooling Products,Health conscious
+CS0619,34.0,Male,Construction Worker,Diploma,273000.0,Bengaluru,Karnataka,India,25.0,6.0,6.0,590.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0178,44.0,Female,Urban Planner,Doctorate,1910000.0,Ahmedabad,Gujarat,India,32.0,3.0,10.0,6240.0,Webinar,Disaster Preparedness,Community focused
+CS0273,28.0,Male,Data Analyst,Graduate,,Bengaluru,Karnataka,India,59.0,3.0,26.0,960.0,Instagram,Climate Data,Digital native
+CS0038,38.0,female,Teacher,Graduate,932000.0,Bengaluru,Karnataka,India,67.0,12.0,16.0,1970.0,Instagram,Health Advisories,Family first
+CS0098,48.0,M,Municipal Officer,Postgraduate,2353000.0,Ahmedabad,Gujarat,India,33.0,1.0,10.0,5380.0,LinkedIn,Urban Heat Policy,Community focused
+CS0396,41.0,Female,Teacher,Graduate,1188000.0,Ahmedabad,Gujarat,India,77.0,10.0,9.0,2050.0,Email,Health Advisories,Health conscious
+CS0203,34.0,Female,Delivery Partner,High School,,Delhi,Delhi,India,26.0,5.0,9.0,770.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0533,26.0,F,Driver,Diploma,270000.0,Mumbai,Maharashtra,India,38.0,4.0,10.0,660.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0237,30.0,Male,Researcher,Graduate,508000.0,Pune,Maharashtra,India,44.0,5.0,26.0,780.0,YouTube,AI Forecasting,Digital native
+CS0150,19.0,Male,Software Engineer,Postgraduate,524000.0,Mumbai,Maharashtra,India,65.0,4.0,22.0,830.0,Reddit,Open Data and APIs,Sustainability minded
+CS0218,48.0,Male,Construction Worker,High School,363000.0,Ahmedabad,Gujarat,India,25.0,5.0,11.0,770.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0780,51.0,Female,Municipal Officer,Doctorate,1092000.0,Ahmedabad,Gujarat,India,38.0,3.0,8.0,6190.0,,Disaster Preparedness,Community focused
+CS0653,20.0,Female,Researcher,Postgraduate,540000.0,Pune,Maharashtra,India,74.0,2.0,29.0,570.0,YouTube,AI Forecasting,Sustainability minded
+CS0264,24.0,Male,Data Analyst,Postgraduate,628000.0,Delhi,Delhi,India,67.0,4.0,36.0,1060.0,Instagram,Open Data and APIs,Digital native
+CS0614,35.0,Female,Business Owner,Graduate,1412000.0,Pune,Maharashtra,India,83.0,10.0,16.0,2480.0,Email,Cooling Products,Family first
+CS0752,52.0,Female,Urban Planner,Doctorate,2418000.0,Mumbai,Maharashtra,India,37.0,3.0,12.0,3760.0,Email,Disaster Preparedness,Community focused
+CS0473,26.0,Female,Software Engineer,Postgraduate,480000.0,Bengaluru,Karnataka,India,52.0,4.0,30.0,1150.0,Instagram,AI Forecasting,Sustainability minded
+CS0767,,Male,Researcher,Graduate,500000.0,Pune,Maharashtra,India,56.0,3.0,27.0,1680.0,Reddit,Open Data and APIs,Digital native
+CS0194,28.0,Male,Data Analyst,Postgraduate,450000.0,Bengaluru,Karnataka,India,,4.0,26.0,760.0,Reddit,Climate Data,Digital native
+CS0236,36.0,Female,Construction Worker,High School,209000.0,Delhi,Delhi,India,,3.0,11.0,730.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0682,24.0,Other,Construction Worker,High School,300000.0,Mumbai,Maharashtra,India,33.0,3.0,10.0,510.0,Push Notification,Hydration Tips,Budget conscious
+CS0056,42.0,Male,Doctor,Graduate,,Pune,Maharashtra,India,61.0,11.0,15.0,2640.0,Email,Child and Elder Care,Family first
+CS0303,44.0,Female,NGO Manager,Postgraduate,1850000.0,Pune,Maharashtra,India,40.0,3.0,7.0,4100.0,Email,Disaster Preparedness,Policy driven
+CS0097,57.0,female,NGO Manager,Doctorate,2422000.0,Delhi,Delhi,India,30.0,2.0,9.0,5520.0,Webinar,Early Warning Systems,Policy driven
+CS0142,23.0,Female,Researcher,Postgraduate,458000.0,Bengaluru,Karnataka,India,36.0,4.0,26.0,1210.0,YouTube,Open Data and APIs,Sustainability minded
+CS0571,33.0,Male,Teacher,Postgraduate,892000.0,Delhi,Delhi,India,83.0,14.0,13.0,2120.0,Facebook,Child and Elder Care,Family first
+CS0791,19.0,Male,Software Engineer,Graduate,679000.0,Pune,Maharashtra,India,72.0,2.0,19.0,630.0,Instagram,Climate Data,Sustainability minded
+CS0474,42.0,Female,Construction Worker,High School,266000.0,Bengaluru,Karnataka,India,41.0,4.0,10.0,610.0,SMS,Hydration Tips,Long outdoor hours
+CS0413,36.0,Female,Street Vendor,High School,223000.0,Bengaluru,Karnataka,India,48.0,3.0,6.0,580.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0121,39.0,Female,Business Owner,Graduate,1013000.0,Pune,Maharashtra,India,66.0,11.0,12.0,2220.0,Instagram,Child and Elder Care,Health conscious
+CS0335,50.0,Male,Municipal Officer,Doctorate,2223000.0,Delhi,Delhi,India,29.0,2.0,14.0,3930.0,Webinar,Early Warning Systems,Policy driven
+CS0638,39.0,Male,Doctor,Postgraduate,1065000.0,Bengaluru,Karnataka,India,88.0,7.0,13.0,2440.0,Email,Health Advisories,Family first
+CS0683,37.0,male,Construction Worker,High School,293000.0,Delhi,Delhi,India,37.0,5.0,6.0,520.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0491,46.0,Female,Delivery Partner,Diploma,368000.0,Ahmedabad,Gujarat,India,45.0,4.0,10.0,670.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0004,31.0,Male,Data Analyst,Postgraduate,342000.0,Ahmedabad,Gujarat,India,42.0,4.0,30.0,690.0,Reddit,Open Data and APIs,Sustainability minded
+CS0059,35.0,Female,Driver,High School,275000.0,Mumbai,Maharashtra,India,40.0,5.0,10.0,380.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0224,44.0,male,Business Owner,Postgraduate,954000.0,Bengaluru,Karnataka,India,67.0,11.0,14.0,1570.0,Instagram,Health Advisories,Health conscious
+CS0376,50.0,Female,Municipal Officer,Doctorate,1912000.0,Pune,Maharashtra,India,20.0,1.0,14.0,6670.0,Webinar,Disaster Preparedness,Community focused
+CS0102,37.0,Male,Homemaker,Graduate,1272000.0,Mumbai,Maharashtra,India,72.0,13.0,12.0,2040.0,Email,Health Advisories,Health conscious
+CS0222,36.0,Female,Street Vendor,Diploma,359000.0,Bengaluru,Karnataka,India,36.0,4.0,8.0,580.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0319,20.0,Male,Driver,Diploma,258000.0,Bengaluru,Karnataka,India,34.0,5.0,8.0,660.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0431,54.0,Male,Municipal Officer,Doctorate,2133000.0,Delhi,Delhi,India,19.0,1.0,9.0,5770.0,Webinar,Urban Heat Policy,Community focused
+CS0053,49.0,Male,Urban Planner,Doctorate,2024000.0,Delhi,Delhi,India,32.0,2.0,18.0,3900.0,Webinar,Urban Heat Policy,Community focused
+CS0018,36.0,Female,Homemaker,Graduate,596000.0,Ahmedabad,Gujarat,India,66.0,11.0,15.0,,Facebook,Child and Elder Care,Health conscious
+CS0156,22.0,Male,Researcher,Postgraduate,408000.0,Delhi,Delhi,India,67.0,3.0,23.0,840.0,Reddit,AI Forecasting,Digital native
+CS0552,42.0,Female,Construction Worker,Diploma,307000.0,Pune,Maharashtra,India,30.0,7.0,13.0,720.0,Push Notification,Hydration Tips,Budget conscious
+CS0249,34.0,Male,Delivery Partner,High School,326000.0,Delhi,Delhi,India,38.0,8.0,8.0,790.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0250,41.0,Male,Doctor,Graduate,,Mumbai,Maharashtra,India,74.0,9.0,11.0,1870.0,Email,Health Advisories,Health conscious
+CS0666,,female,Data Analyst,Postgraduate,655000.0,Pune,Maharashtra,India,64.0,3.0,29.0,1010.0,YouTube,Climate Data,Sustainability minded
+CS0694,43.0,Female,Business Owner,Graduate,1075000.0,Bengaluru,Karnataka,India,88.0,11.0,11.0,2590.0,Facebook,Child and Elder Care,Family first
+CS0031,39.0,Male,Delivery Partner,Diploma,287000.0,Ahmedabad,Gujarat,India,53.0,7.0,4.0,610.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0622,47.0,Female,Teacher,Graduate,1334000.0,Bengaluru,Karnataka,India,84.0,12.0,15.0,2800.0,Instagram,Cooling Products,Family first
+CS0785,29.0,M,Construction Worker,High School,321000.0,Bengaluru,Karnataka,India,36.0,2.0,9.0,980.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0118,38.0,Female,Facility Manager,Postgraduate,2109000.0,Ahmedabad,Gujarat,India,27.0,3.0,8.0,4630.0,Email,Early Warning Systems,Policy driven
+CS0351,23.0,Female,Student,Postgraduate,701000.0,Delhi,Delhi,India,74.0,5.0,30.0,1290.0,Instagram,AI Forecasting,Sustainability minded
+CS0117,25.0,Female,Student,Graduate,428000.0,Mumbai,Maharashtra,India,60.0,3.0,24.0,860.0,Instagram,Open Data and APIs,Sustainability minded
+CS0455,33.0,Male,Driver,High School,330000.0,Bengaluru,Karnataka,India,37.0,4.0,8.0,620.0,SMS,Hydration Tips,Long outdoor hours
+CS0542,39.0,FEMALE,Delivery Partner,Diploma,328000.0,Mumbai,Maharashtra,India,45.0,6.0,10.0,820.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0579,21.0,Male,Researcher,Postgraduate,261000.0,Pune,Maharashtra,India,74.0,3.0,22.0,720.0,Reddit,Open Data and APIs,Sustainability minded
+CS0028,24.0,female,Student,Postgraduate,643000.0,Pune,Maharashtra,India,65.0,0.0,23.0,1000.0,Instagram,Open Data and APIs,Digital native
+CS0308,27.0,Female,Construction Worker,High School,307000.0,Bengaluru,Karnataka,India,46.0,4.0,5.0,730.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0478,25.0,Male,Software Engineer,Postgraduate,613000.0,Bengaluru,Karnataka,India,59.0,1.0,28.0,610.0,Instagram,Climate Data,Sustainability minded
+CS0201,36.0,Female,Teacher,Graduate,1182000.0,Bangalore,Karnataka,India,65.0,12.0,14.0,2740.0,Facebook,Health Advisories,Health conscious
+CS0715,53.0,Male,Facility Manager,Doctorate,1708000.0,Ahmedabad,Gujarat,India,35.0,1.0,12.0,4240.0,Webinar,Early Warning Systems,Community focused
+CS0735,36.0,Other,Driver,High School,220000.0,Delhi,Delhi,India,17.0,7.0,6.0,450.0,WhatsApp,Hydration Tips,Budget conscious
+CS0650,28.0,Female,Street Vendor,Diploma,258000.0,Mumbai,Maharashtra,India,37.0,6.0,7.0,610.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0421,22.0,M,Data Analyst,Graduate,,Mumbai,Maharashtra,India,90.0,3.0,26.0,1270.0,Reddit,Climate Data,Digital native
+CS0438,52.0,Male,Driver,Diploma,271000.0,Delhi,Delhi,India,34.0,5.0,10.0,750.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0324,26.0,Female,Data Analyst,Graduate,309000.0,Pune,Maharashtra,India,37.0,4.0,23.0,610.0,YouTube,AI Forecasting,Sustainability minded
+CS0281,19.0,Male,Data Analyst,Graduate,709000.0,Mumbai,Maharashtra,India,65.0,3.0,22.0,910.0,Instagram,Open Data and APIs,Sustainability minded
+CS0779,39.0,Female,Doctor,Graduate,944000.0,Delhi,Delhi,India,73.0,13.0,13.0,2550.0,Email,Child and Elder Care,Family first
+CS0524,38.0,Female,Doctor,Postgraduate,628000.0,delhi,Delhi,India,58.0,14.0,12.0,1480.0,Facebook,Child and Elder Care,Health conscious
+CS0208,50.0,Female,Facility Manager,Doctorate,2226000.0,Pune,Maharashtra,India,17.0,0.0,13.0,5270.0,LinkedIn,Urban Heat Policy,Community focused
+CS0697,42.0,Female,Delivery Partner,Diploma,245000.0,Ahmedabad,Gujarat,India,26.0,6.0,8.0,500.0,SMS,Heat Safety Alerts,Budget conscious
+CS0024,51.0,Female,Urban Planner,Postgraduate,1975000.0,Pune,Maharashtra,India,7.0,2.0,12.0,5500.0,Webinar,Disaster Preparedness,Policy driven
+CS0712,38.0,Male,Construction Worker,Diploma,388000.0,Ahmedabad,Gujarat,India,29.0,5.0,11.0,380.0,SMS,Work Hour Advisories,Budget conscious
+CS0621,28.0,Male,Researcher,Postgraduate,638000.0,Pune,Maharashtra,India,62.0,3.0,36.0,560.0,Instagram,AI Forecasting,Digital native
+CS0155,28.0,Male,Software Engineer,Graduate,409000.0,Pune,Maharashtra,India,27.0,3.0,33.0,880.0,Reddit,Climate Data,Sustainability minded
+CS0702,47.0,Female,Urban Planner,Doctorate,1899000.0,Delhi,Delhi,India,28.0,2.0,14.0,6340.0,LinkedIn,Early Warning Systems,Policy driven
+CS0594,38.0,Female,Street Vendor,Diploma,253000.0,Mumbai,Maharashtra,India,43.0,5.0,3.0,670.0,WhatsApp,Hydration Tips,Budget conscious
+CS0641,56.0,male,NGO Manager,Postgraduate,2068000.0,Pune,Maharashtra,India,20.0,2.0,8.0,4220.0,Email,Urban Heat Policy,Policy driven
+CS0760,26.0,Male,Delivery Partner,Diploma,154000.0,Mumbai,Maharashtra,India,46.0,4.0,11.0,720.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0770,41.0,Male,Delivery Partner,Diploma,288000.0,Delhi,Delhi,India,34.0,6.0,6.0,800.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0714,46.0,Female,Teacher,Graduate,948000.0,Ahmedabad,Gujarat,India,71.0,13.0,12.0,1960.0,Facebook,Child and Elder Care,Health conscious
+CS0436,35.0,Male,Delivery Partner,Diploma,306000.0,Bengaluru,Karnataka,India,38.0,4.0,8.0,940.0,SMS,Hydration Tips,Budget conscious
+CS0263,43.0,Female,Urban Planner,Postgraduate,1648000.0,Ahmedabad,Gujarat,India,16.0,1.0,18.0,5330.0,Webinar,Disaster Preparedness,Community focused
+CS0083,34.0,Female,Driver,High School,250000.0,Ahmedabad,Gujarat,India,32.0,4.0,8.0,670.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0409,38.0,Male,Street Vendor,High School,313000.0,Mumbai,Maharashtra,India,38.0,5.0,11.0,480.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0601,29.0,Other,Delivery Partner,High School,275000.0,Delhi,Delhi,India,35.0,6.0,12.0,580.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0039,36.0,Male,Urban Planner,Postgraduate,1325000.0,Bengaluru,Karnataka,India,18.0,2.0,11.0,4420.0,Email,Early Warning Systems,Policy driven
+CS0527,52.0,Female,Urban Planner,Postgraduate,2082000.0,Delhi,Delhi,India,39.0,2.0,11.0,6570.0,Email,Disaster Preparedness,Community focused
+CS0334,18.0,Male,Data Analyst,Postgraduate,529000.0,Ahmedabad,Gujarat,India,64.0,4.0,22.0,700.0,Instagram,Climate Data,Sustainability minded
+CS0011,38.0,Female,Delivery Partner,High School,300000.0,Delhi,Delhi,India,39.0,4.0,9.0,720.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0690,42.0,Female,Doctor,Graduate,1026000.0,Mumbai,Maharashtra,India,,11.0,16.0,2650.0,Instagram,Health Advisories,Health conscious
+CS0320,42.0,Female,NGO Manager,Doctorate,2182000.0,Ahmedabad,Gujarat,India,29.0,1.0,9.0,5070.0,LinkedIn,Urban Heat Policy,Community focused
+CS0033,28.0,Male,Researcher,Postgraduate,244000.0,Mumbai,Maharashtra,India,56.0,5.0,20.0,1270.0,YouTube,AI Forecasting,Digital native
+CS0419,44.0,Female,Doctor,Graduate,784000.0,Pune,Maharashtra,India,79.0,10.0,14.0,1950.0,Instagram,Child and Elder Care,Family first
+CS0720,42.0,Female,Business Owner,Graduate,1195000.0,Bengaluru,Karnataka,India,62.0,10.0,13.0,3230.0,Instagram,Health Advisories,Family first
+CS0282,38.0,F,Teacher,Graduate,839000.0,Delhi,Delhi,India,58.0,14.0,13.0,2020.0,Facebook,Cooling Products,Family first
+CS0465,38.0,Male,Construction Worker,Diploma,241000.0,Mumbai,Maharashtra,India,41.0,3.0,9.0,700.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0732,22.0,Male,Software Engineer,Graduate,585000.0,Bengaluru,Karnataka,India,56.0,1.0,26.0,870.0,Reddit,Open Data and APIs,Sustainability minded
+CS0479,44.0,Male,Street Vendor,High School,265000.0,Pune,Maharashtra,India,36.0,1.0,8.0,530.0,SMS,Work Hour Advisories,Budget conscious
+CS0739,39.0,Female,Business Owner,Graduate,1080000.0,Pune,Maharashtra,India,80.0,11.0,15.0,2040.0,Facebook,Health Advisories,Health conscious
+CS0353,26.0,Male,Software Engineer,Postgraduate,716000.0,Bengaluru,Karnataka,India,56.0,3.0,21.0,900.0,Reddit,Open Data and APIs,Digital native
+CS0544,19.0,Female,Data Analyst,Graduate,653000.0,Ahmedabad,Gujarat,India,39.0,5.0,19.0,580.0,Instagram,AI Forecasting,Digital native
+CS0090,47.0,Male,Delivery Partner,High School,339000.0,Delhi,Delhi,India,33.0,4.0,13.0,700.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0214,31.0,F,Street Vendor,High School,322000.0,Delhi,Delhi,India,56.0,3.0,11.0,620.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0322,49.0,FEMALE,Homemaker,Graduate,1055000.0,Delhi,Delhi,India,64.0,12.0,10.0,2430.0,Instagram,Child and Elder Care,Health conscious
+CS0684,42.0,Male,Street Vendor,High School,383000.0,Ahmedabad,Gujarat,India,,6.0,11.0,690.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0134,50.0,Female,NGO Manager,Doctorate,2019000.0,Delhi,Delhi,India,36.0,3.0,13.0,5760.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0347,50.0,Female,Facility Manager,Postgraduate,1858000.0,Mumbai,Maharashtra,India,30.0,3.0,11.0,3910.0,Email,Urban Heat Policy,Policy driven
+CS0505,32.0,male,Driver,High School,259000.0,Bengaluru,Karnataka,India,27.0,4.0,7.0,480.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0008,24.0,Male,Software Engineer,Graduate,551000.0,delhi,Delhi,India,65.0,4.0,29.0,,Instagram,Climate Data,Digital native
+CS0483,47.0,Male,Teacher,Postgraduate,876000.0,Mumbai,Maharashtra,India,70.0,12.0,12.0,2560.0,Email,Cooling Products,Health conscious
+CS0743,41.0,Female,Business Owner,Postgraduate,944000.0,Ahmedabad,Gujarat,India,61.0,7.0,16.0,2050.0,Email,Cooling Products,Family first
+CS0636,44.0,Male,Urban Planner,Postgraduate,2110000.0,Delhi,Delhi,India,40.0,3.0,20.0,4710.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0188,28.0,Female,Data Analyst,Graduate,542000.0,Pune,Maharashtra,India,66.0,4.0,31.0,650.0,YouTube,AI Forecasting,Digital native
+CS0123,32.0,Female,Driver,Diploma,287000.0,Delhi,Delhi,India,29.0,4.0,6.0,740.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0041,42.0,Male,Street Vendor,Diploma,366000.0,Mumbai,Maharashtra,India,48.0,5.0,8.0,690.0,SMS,Hydration Tips,Long outdoor hours
+CS0305,21.0,Male,Data Analyst,Graduate,422000.0,Pune,Maharashtra,India,67.0,4.0,35.0,920.0,YouTube,AI Forecasting,Sustainability minded
+CS0424,30.0,Male,Driver,High School,241000.0,Mumbai,Maharashtra,India,36.0,7.0,11.0,,SMS,Heat Safety Alerts,Budget conscious
+CS0722,37.0,Female,Driver,Diploma,317000.0,Bengaluru,Karnataka,India,41.0,5.0,11.0,910.0,SMS,Work Hour Advisories,Budget conscious
+CS0173,30.0,Female,Driver,Diploma,184000.0,Delhi,Delhi,India,41.0,4.0,8.0,590.0,SMS,Hydration Tips,Budget conscious
+CS0285,24.0,Male,Researcher,Graduate,344000.0,Pune,Maharashtra,India,57.0,2.0,21.0,1250.0,YouTube,Climate Data,Digital native
+CS0719,60.0,Female,Urban Planner,Doctorate,2632000.0,Pune,Maharashtra,India,28.0,2.0,10.0,5150.0,Webinar,Disaster Preparedness,Community focused
+CS0241,41.0,Female,Homemaker,Graduate,943000.0,Bombay,Maharashtra,India,,11.0,12.0,2360.0,Instagram,Cooling Products,Family first
+CS0592,50.0,Male,Homemaker,Postgraduate,1013000.0,Ahmedabad,Gujarat,India,61.0,14.0,10.0,2260.0,Email,Cooling Products,Health conscious
+CS0597,42.0,Male,Teacher,Postgraduate,1219000.0,Mumbai,Maharashtra,India,77.0,11.0,14.0,2580.0,Facebook,Child and Elder Care,Family first
+CS0659,50.0,male,Municipal Officer,Doctorate,1825000.0,Mumbai,Maharashtra,India,9.0,2.0,16.0,5810.0,Webinar,Disaster Preparedness,Community focused
+CS0572,25.0,Male,Street Vendor,High School,244000.0,Ahmedabad,Gujarat,India,23.0,5.0,4.0,770.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0246,25.0,Male,Software Engineer,Graduate,409000.0,Pune,Maharashtra,India,63.0,2.0,25.0,1160.0,Instagram,Climate Data,Digital native
+CS0057,25.0,Female,Student,Postgraduate,533000.0,Bengaluru,Karnataka,India,44.0,0.0,32.0,1150.0,Instagram,Climate Data,Sustainability minded
+CS0404,19.0,Male,Data Analyst,Graduate,473000.0,Pune,Maharashtra,India,65.0,4.0,24.0,860.0,Reddit,Open Data and APIs,Digital native
+CS0072,42.0,Male,Street Vendor,Diploma,239000.0,Mumbai,Maharashtra,India,41.0,5.0,8.0,670.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0610,25.0,Male,Researcher,Postgraduate,457000.0,Mumbai,Maharashtra,India,34.0,4.0,25.0,1260.0,Instagram,Climate Data,Sustainability minded
+CS0146,25.0,female,Data Analyst,Postgraduate,509000.0,Pune,Maharashtra,India,54.0,3.0,23.0,910.0,Instagram,Climate Data,Digital native
+CS0091,47.0,Female,NGO Manager,Postgraduate,1821000.0,Mumbai,Maharashtra,India,21.0,2.0,12.0,5180.0,Webinar,Urban Heat Policy,Community focused
+CS0167,25.0,Female,Delivery Partner,High School,319000.0,Delhi,Delhi,India,37.0,6.0,9.0,670.0,SMS,Hydration Tips,Budget conscious
+CS0499,18.0,Female,Researcher,Graduate,652000.0,Pune,Maharashtra,India,68.0,3.0,28.0,610.0,Reddit,Open Data and APIs,Sustainability minded
+CS0171,35.0,M,Teacher,Postgraduate,1156000.0,bengaluru,Karnataka,India,75.0,14.0,16.0,2230.0,Email,Cooling Products,Family first
+CS0311,31.0,male,Street Vendor,Diploma,294000.0,Ahmedabad,Gujarat,India,41.0,4.0,9.0,470.0,SMS,Hydration Tips,Budget conscious
+CS0670,46.0,Male,Homemaker,Graduate,1281000.0,Pune,Maharashtra,India,82.0,17.0,13.0,2720.0,Facebook,Health Advisories,Health conscious
+CS0360,23.0,Male,Researcher,Graduate,478000.0,Pune,Maharashtra,India,76.0,2.0,22.0,,Instagram,Climate Data,Digital native
+CS0094,42.0,female,Teacher,Postgraduate,1105000.0,Pune,Maharashtra,India,65.0,13.0,16.0,3280.0,Facebook,Health Advisories,Family first
+CS0488,24.0,Male,Researcher,Graduate,463000.0,Delhi,Delhi,India,66.0,1.0,33.0,1110.0,YouTube,Climate Data,Sustainability minded
+CS0710,30.0,Male,Driver,Diploma,274000.0,Mumbai,Maharashtra,India,49.0,5.0,6.0,580.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0609,51.0,M,NGO Manager,Doctorate,2442000.0,Delhi,Delhi,India,23.0,2.0,16.0,3670.0,Webinar,Early Warning Systems,Community focused
+CS0377,27.0,Male,Student,Postgraduate,498000.0,Delhi,Delhi,India,57.0,3.0,33.0,1390.0,YouTube,Climate Data,Digital native
+CS0244,36.0,Male,Teacher,Postgraduate,1020000.0,Delhi,Delhi,India,72.0,9.0,15.0,2530.0,Email,Cooling Products,Health conscious
+CS0088,50.0,Male,Teacher,Postgraduate,911000.0,Mumbai,Maharashtra,India,64.0,11.0,10.0,2410.0,Facebook,Child and Elder Care,Family first
+CS0215,40.0,M,Driver,High School,214000.0,Delhi,Delhi,India,30.0,5.0,7.0,600.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0345,31.0,Male,Data Analyst,Postgraduate,392000.0,Bengaluru,Karnataka,India,74.0,4.0,33.0,910.0,YouTube,AI Forecasting,Sustainability minded
+CS0174,54.0,F,Doctor,Graduate,1013000.0,Pune,Maharashtra,India,79.0,10.0,14.0,3020.0,Facebook,Child and Elder Care,Family first
+CS0643,49.0,Male,NGO Manager,Postgraduate,2037000.0,Bengaluru,Karnataka,India,31.0,2.0,5.0,6310.0,Webinar,Disaster Preparedness,Policy driven
+CS0292,43.0,Female,Municipal Officer,Postgraduate,2448000.0,Delhi,Delhi,India,22.0,4.0,11.0,4870.0,LinkedIn,Early Warning Systems,Community focused
+CS0628,37.0,Male,Business Owner,Graduate,841000.0,Bengaluru,Karnataka,India,86.0,11.0,13.0,2660.0,Instagram,Child and Elder Care,Health conscious
+CS0119,45.0,male,Street Vendor,Diploma,342000.0,Delhi,Delhi,India,31.0,7.0,10.0,680.0,Push Notification,Hydration Tips,Budget conscious
+CS0120,29.0,Male,Delivery Partner,High School,184000.0,Ahmedabad,Gujarat,India,31.0,3.0,8.0,600.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0164,39.0,Female,Doctor,Graduate,1125000.0,Bengaluru,Karnataka,India,75.0,10.0,15.0,2580.0,Email,Health Advisories,Family first
+CS0749,35.0,Male,Teacher,Postgraduate,1141000.0,Bengaluru,Karnataka,India,76.0,13.0,11.0,2970.0,Facebook,Child and Elder Care,Family first
+CS0385,45.0,Female,Doctor,Postgraduate,1292000.0,Delhi,Delhi,India,77.0,12.0,16.0,2040.0,Facebook,Child and Elder Care,Health conscious
+CS0598,42.0,Male,Homemaker,Postgraduate,1349000.0,Delhi,Delhi,India,68.0,10.0,13.0,2900.0,Instagram,Cooling Products,Health conscious
+CS0395,39.0,Male,Business Owner,Graduate,1210000.0,Bangalore,Karnataka,India,84.0,13.0,21.0,3350.0,Email,Child and Elder Care,Family first
+CS0402,46.0,Female,Homemaker,Graduate,866000.0,Pune,Maharashtra,India,72.0,15.0,10.0,3460.0,Instagram,Child and Elder Care,Family first
+CS0405,25.0,Male,Doctor,Postgraduate,1124000.0,Bengaluru,Karnataka,India,72.0,10.0,9.0,1610.0,Email,Child and Elder Care,Health conscious
+CS0481,38.0,MALE,Delivery Partner,Diploma,415000.0,Mumbai,Maharashtra,India,31.0,1.0,10.0,800.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0509,36.0,MALE,Delivery Partner,High School,310000.0,Pune,Maharashtra,India,43.0,7.0,11.0,380.0,SMS,Work Hour Advisories,Budget conscious
+CS0163,58.0,Male,Homemaker,Postgraduate,814000.0,Mumbai,Maharashtra,India,71.0,13.0,13.0,1790.0,Email,Cooling Products,Health conscious
+CS0321,42.0,F,Urban Planner,Doctorate,2091000.0,Pune,Maharashtra,India,16.0,3.0,8.0,5530.0,Email,Urban Heat Policy,Community focused
+CS0115,49.0,Male,Urban Planner,Doctorate,2469000.0,Mumbai,Maharashtra,India,16.0,1.0,11.0,5420.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0159,20.0,Male,Student,Graduate,461000.0,Delhi,Delhi,India,65.0,4.0,26.0,890.0,Instagram,Climate Data,Sustainability minded
+CS0151,54.0,Female,Facility Manager,Doctorate,2661000.0,Mumbai,Maharashtra,India,37.0,3.0,6.0,7240.0,Webinar,Disaster Preparedness,Policy driven
+CS0510,19.0,Female,Student,Graduate,656000.0,Delhi,Delhi,India,72.0,4.0,24.0,670.0,YouTube,Climate Data,Digital native
+CS0423,27.0,Male,Delivery Partner,Diploma,263000.0,Mumbai,Maharashtra,India,44.0,3.0,11.0,480.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0604,23.0,Female,Researcher,Graduate,434000.0,Pune,Maharashtra,India,65.0,2.0,21.0,990.0,Instagram,Climate Data,Digital native
+CS0369,42.0,Male,NGO Manager,Doctorate,2819000.0,Delhi,Delhi,India,23.0,2.0,15.0,5310.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0032,48.0,F,Delivery Partner,Diploma,260000.0,Delhi,Delhi,India,52.0,6.0,7.0,890.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0378,46.0,Other,Urban Planner,Doctorate,2501000.0,Delhi,Delhi,India,25.0,2.0,7.0,5380.0,Email,Disaster Preparedness,Community focused
+CS0515,49.0,Female,Urban Planner,Doctorate,2569000.0,Bengaluru,Karnataka,India,32.0,1.0,10.0,5700.0,Email,Urban Heat Policy,Policy driven
+CS0021,64.0,male,Municipal Officer,Doctorate,2102000.0,Mumbai,Maharashtra,India,23.0,3.0,9.0,5510.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0114,51.0,Male,Construction Worker,Diploma,,Delhi,Delhi,India,50.0,5.0,9.0,530.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0703,25.0,Other,Software Engineer,Postgraduate,682000.0,Bengaluru,Karnataka,India,71.0,2.0,28.0,1350.0,Reddit,Open Data and APIs,Digital native
+CS0001,50.0,Female,NGO Manager,Doctorate,2734000.0,Delhi,Delhi,India,40.0,2.0,4.0,5080.0,Webinar,Early Warning Systems,Community focused
+CS0442,29.0,M,Street Vendor,Diploma,304000.0,Pune,Maharashtra,India,30.0,7.0,8.0,430.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0691,42.0,male,Homemaker,Postgraduate,1033000.0,Mumbai,Maharashtra,India,70.0,14.0,11.0,1950.0,Instagram,Health Advisories,Family first
+CS0774,32.0,Female,Doctor,Graduate,899000.0,Mumbai,Maharashtra,India,76.0,13.0,18.0,2650.0,Facebook,Child and Elder Care,Family first
+CS0793,26.0,Female,Software Engineer,Graduate,578000.0,bengaluru,Karnataka,India,53.0,4.0,28.0,790.0,Reddit,Climate Data,Digital native
+CS0543,27.0,Male,Researcher,Postgraduate,511000.0,Pune,Maharashtra,India,53.0,3.0,21.0,990.0,YouTube,AI Forecasting,Digital native
+CS0259,40.0,Male,Teacher,Graduate,1085000.0,Mumbai,Maharashtra,India,88.0,9.0,12.0,2570.0,Instagram,Cooling Products,Family first
+CS0787,35.0,Male,Driver,High School,282000.0,Delhi,Delhi,India,43.0,5.0,10.0,530.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0315,40.0,Male,Teacher,Postgraduate,916000.0,Pune,Maharashtra,India,83.0,12.0,14.0,2500.0,Email,Health Advisories,Family first
+CS0689,22.0,Other,Student,Postgraduate,,Bengaluru,Karnataka,India,,4.0,30.0,940.0,Instagram,Open Data and APIs,Digital native
+CS0136,22.0,FEMALE,Software Engineer,Postgraduate,393000.0,Delhi,Delhi,India,66.0,3.0,25.0,730.0,Instagram,Open Data and APIs,Digital native
+CS0546,22.0,Female,Street Vendor,High School,268000.0,Mumbai,Maharashtra,India,34.0,5.0,9.0,920.0,whatsapp,Work Hour Advisories,Long outdoor hours
+CS0005,48.0,MALE,Street Vendor,High School,320000.0,Delhi,Delhi,India,35.0,6.0,7.0,690.0,SMS,Work Hour Advisories,Budget conscious
+CS0485,22.0,Male,Student,Graduate,437000.0,Mumbai,Maharashtra,India,43.0,4.0,24.0,1080.0,Reddit,Open Data and APIs,Digital native
+CS0325,28.0,Male,Delivery Partner,Diploma,362000.0,Mumbai,Maharashtra,India,54.0,5.0,5.0,190.0,SMS,Heat Safety Alerts,Budget conscious
+CS0331,44.0,Male,Business Owner,Graduate,705000.0,Ahmedabad,Gujarat,India,75.0,13.0,15.0,2430.0,Facebook,Child and Elder Care,Family first
+CS0450,37.0,M,Teacher,Graduate,1013000.0,Pune,Maharashtra,India,71.0,13.0,14.0,1930.0,Facebook,Health Advisories,Health conscious
+CS0340,39.0,Male,Delivery Partner,High School,220000.0,Bengaluru,Karnataka,India,41.0,3.0,8.0,360.0,WhatsApp,Hydration Tips,Budget conscious
+CS0298,48.0,Female,Doctor,Graduate,1011000.0,Ahmedabad,Gujarat,India,76.0,12.0,15.0,1930.0,Facebook,Health Advisories,Health conscious
+CS0081,43.0,Male,Doctor,Graduate,737000.0,Mumbai,Maharashtra,India,69.0,9.0,12.0,2190.0,Instagram,Child and Elder Care,Family first
+CS0713,48.0,Female,Doctor,Graduate,693000.0,Bengaluru,Karnataka,India,78.0,9.0,15.0,2670.0,Facebook,Cooling Products,Health conscious
+CS0027,44.0,Female,Teacher,Graduate,883000.0,Ahmedabad,Gujarat,India,84.0,15.0,16.0,2650.0,Facebook,Child and Elder Care,Family first
+CS0532,63.0,Female,Municipal Officer,Doctorate,2989000.0,Pune,Maharashtra,India,13.0,2.0,14.0,,Webinar,Early Warning Systems,Policy driven
+CS0217,28.0,Female,Researcher,Graduate,568000.0,Pune,Maharashtra,India,90.0,4.0,19.0,740.0,Instagram,Climate Data,Digital native
+CS0606,51.0,Female,Driver,High School,195000.0,Delhi,Delhi,India,27.0,5.0,5.0,770.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0344,58.0,Female,Municipal Officer,Postgraduate,2280000.0,Bombay,Maharashtra,India,14.0,2.0,10.0,5690.0,LinkedIn,Early Warning Systems,Community focused
+CS0599,46.0,Female,Homemaker,Graduate,992000.0,Delhi,Delhi,India,72.0,10.0,14.0,3060.0,Email,Child and Elder Care,Health conscious
+CS0511,34.0,Male,Driver,Diploma,264000.0,delhi,Delhi,India,42.0,3.0,9.0,440.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0365,32.0,Male,Delivery Partner,High School,265000.0,Ahmedabad,Gujarat,India,48.0,5.0,8.0,560.0,SMS,Work Hour Advisories,Budget conscious
+CS0504,26.0,Male,Software Engineer,Graduate,624000.0,Bengaluru,Karnataka,India,58.0,3.0,29.0,1130.0,YouTube,AI Forecasting,Digital native
+CS0148,41.0,Male,Teacher,Graduate,989000.0,Pune,Maharashtra,India,78.0,11.0,18.0,1800.0,Email,Health Advisories,Family first
+CS0015,41.0,Male,Business Owner,Graduate,548000.0,Delhi,Delhi,India,73.0,14.0,18.0,1800.0,Email,Child and Elder Care,Family first
+CS0175,34.0,Female,Driver,Diploma,246000.0,Ahmedabad,Gujarat,India,42.0,5.0,6.0,680.0,WhatsApp,Hydration Tips,Budget conscious
+CS0087,60.0,Male,Urban Planner,Doctorate,,Delhi,Delhi,India,24.0,2.0,14.0,,Webinar,Urban Heat Policy,Policy driven
+CS0371,35.0,Male,Construction Worker,Diploma,276000.0,Delhi,Delhi,India,,5.0,12.0,430.0,Push Notification,Hydration Tips,Budget conscious
+CS0166,39.0,male,Driver,High School,317000.0,Ahmedabad,Gujarat,India,34.0,3.0,9.0,720.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0716,43.0,Male,Teacher,Graduate,1202000.0,Mumbai,Maharashtra,India,81.0,13.0,14.0,2390.0,Email,Health Advisories,Health conscious
+CS0336,48.0,Female,Homemaker,Postgraduate,796000.0,Bengaluru,Karnataka,India,77.0,13.0,12.0,2870.0,Instagram,Health Advisories,Health conscious
+CS0060,42.0,Female,Construction Worker,High School,358000.0,Delhi,Delhi,India,45.0,4.0,7.0,730.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0772,24.0,Female,Data Analyst,Postgraduate,541000.0,Pune,Maharashtra,India,41.0,3.0,25.0,820.0,Instagram,Climate Data,Digital native
+CS0539,46.0,Male,Facility Manager,Postgraduate,1835000.0,Bengaluru,Karnataka,India,33.0,2.0,11.0,5990.0,Webinar,Early Warning Systems,Community focused
+CS0165,41.0,Female,Homemaker,Postgraduate,1375000.0,Delhi,Delhi,India,82.0,13.0,13.0,2100.0,Email,Cooling Products,Health conscious
+CS0355,36.0,Male,Delivery Partner,High School,269000.0,Ahmedabad,Gujarat,India,35.0,5.0,6.0,800.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0611,48.0,Male,Teacher,Postgraduate,1002000.0,Bengaluru,Karnataka,India,75.0,14.0,15.0,3130.0,Email,Child and Elder Care,Family first
+CS0425,18.0,Male,Data Analyst,Graduate,678000.0,Delhi,Delhi,India,42.0,2.0,23.0,,Instagram,AI Forecasting,Sustainability minded
+CS0293,40.0,Male,Construction Worker,High School,217000.0,Mumbai,Maharashtra,India,32.0,4.0,8.0,450.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0042,45.0,Female,Teacher,Graduate,852000.0,Pune,Maharashtra,India,79.0,9.0,12.0,2860.0,Email,Health Advisories,Health conscious
+CS0362,43.0,Male,Business Owner,Graduate,1130000.0,Delhi,Delhi,India,61.0,14.0,21.0,2650.0,Facebook,Cooling Products,Health conscious
+CS0330,,Male,Researcher,Postgraduate,494000.0,Bengaluru,Karnataka,India,53.0,3.0,19.0,640.0,Instagram,AI Forecasting,Digital native
+CS0554,30.0,Female,Driver,Diploma,281000.0,Ahmedabad,Gujarat,India,29.0,5.0,4.0,470.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0430,31.0,Male,Software Engineer,Graduate,509000.0,Mumbai,Maharashtra,India,80.0,2.0,27.0,1270.0,Reddit,AI Forecasting,Sustainability minded
+CS0080,30.0,Male,Researcher,Graduate,481000.0,Bengaluru,Karnataka,India,83.0,3.0,15.0,1540.0,Reddit,AI Forecasting,Digital native
+CS0766,24.0,Male,Data Analyst,Graduate,516000.0,Delhi,Delhi,India,69.0,2.0,24.0,920.0,YouTube,AI Forecasting,Digital native
+CS0029,54.0,Male,Municipal Officer,Doctorate,2135000.0,delhi,Delhi,India,41.0,2.0,12.0,5750.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0426,42.0,Female,Urban Planner,Postgraduate,2879000.0,Mumbai,Maharashtra,India,26.0,1.0,14.0,6760.0,LinkedIn,Early Warning Systems,Community focused
+CS0516,41.0,Female,NGO Manager,Doctorate,2429000.0,Pune,Maharashtra,India,26.0,3.0,11.0,5080.0,Webinar,Disaster Preparedness,Community focused
+CS0573,31.0,Female,Student,Postgraduate,419000.0,Ahmedabad,Gujarat,India,58.0,7.0,32.0,900.0,Reddit,Climate Data,Digital native
+CS0564,37.0,Male,Teacher,Graduate,1215000.0,Ahmedabad,Gujarat,India,74.0,13.0,13.0,1630.0,Facebook,Child and Elder Care,Health conscious
+CS0323,51.0,Male,Facility Manager,Postgraduate,3322000.0,Delhi,Delhi,India,24.0,2.0,9.0,4730.0,Webinar,Urban Heat Policy,Policy driven
+CS0238,53.0,Female,Business Owner,Postgraduate,779000.0,Delhi,Delhi,India,57.0,15.0,15.0,2350.0,Facebook,Child and Elder Care,Family first
+CS0379,24.0,Male,Researcher,Postgraduate,517000.0,Pune,Maharashtra,India,50.0,5.0,23.0,250.0,Instagram,Open Data and APIs,Sustainability minded
+CS0255,25.0,Male,Data Analyst,Graduate,483000.0,Ahmedabad,Gujarat,India,72.0,3.0,25.0,460.0,Reddit,Open Data and APIs,Sustainability minded
+CS0608,29.0,Female,Researcher,Graduate,445000.0,Mumbai,Maharashtra,India,60.0,6.0,31.0,930.0,Instagram,Climate Data,Sustainability minded
+CS0459,48.0,Female,Business Owner,Postgraduate,623000.0,Pune,Maharashtra,India,82.0,19.0,15.0,2560.0,Facebook,Health Advisories,Health conscious
+CS0800,31.0,Male,Street Vendor,High School,322000.0,Mumbai,Maharashtra,India,22.0,5.0,7.0,720.0,SMS,Hydration Tips,Budget conscious
+CS0384,58.0,Female,Urban Planner,Postgraduate,2206000.0,Ahmedabad,Gujarat,India,29.0,1.0,14.0,3740.0,LinkedIn,Urban Heat Policy,Community focused
+CS0314,30.0,Female,Software Engineer,Postgraduate,609000.0,Delhi,Delhi,India,39.0,3.0,30.0,870.0,Instagram,AI Forecasting,Digital native
+CS0085,18.0,male,Data Analyst,Graduate,469000.0,Mumbai,Maharashtra,India,75.0,4.0,28.0,830.0,Reddit,Climate Data,Sustainability minded
+CS0063,46.0,Female,Municipal Officer,Postgraduate,1857000.0,Delhi,Delhi,India,25.0,1.0,12.0,6180.0,LinkedIn,Early Warning Systems,Community focused
+CS0796,29.0,Female,Delivery Partner,High School,367000.0,Delhi,Delhi,India,50.0,5.0,9.0,600.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0137,49.0,Male,NGO Manager,Postgraduate,2563000.0,Ahmedabad,Gujarat,India,40.0,3.0,14.0,3950.0,LinkedIn,Early Warning Systems,Policy driven
+CS0112,18.0,male,Researcher,Postgraduate,681000.0,Pune,Maharashtra,India,68.0,3.0,30.0,730.0,Instagram,Climate Data,Digital native
+CS0195,23.0,Male,Software Engineer,Postgraduate,,Pune,Maharashtra,India,55.0,3.0,28.0,1060.0,YouTube,Open Data and APIs,Digital native
+CS0341,37.0,Female,Construction Worker,High School,258000.0,Delhi,Delhi,India,35.0,6.0,13.0,660.0,,Heat Safety Alerts,Long outdoor hours
+CS0179,21.0,Female,Data Analyst,Graduate,572000.0,Ahmedabad,Gujarat,India,61.0,3.0,19.0,450.0,Instagram,Climate Data,Digital native
+CS0044,47.0,Other,Business Owner,Postgraduate,895000.0,Pune,Maharashtra,India,75.0,9.0,17.0,3000.0,Email,Health Advisories,Family first
+CS0596,32.0,Female,Driver,High School,160000.0,Delhi,Delhi,India,35.0,6.0,13.0,540.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0348,29.0,Female,Driver,Diploma,247000.0,Mumbai,Maharashtra,India,37.0,7.0,12.0,770.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0458,36.0,MALE,Teacher,Graduate,920000.0,Bangalore,Karnataka,India,72.0,12.0,15.0,2170.0,Email,Health Advisories,Family first
+CS0497,39.0,Female,Homemaker,Graduate,944000.0,Delhi,Delhi,India,61.0,11.0,15.0,2130.0,Facebook,Child and Elder Care,Family first
+CS0685,37.0,Male,Construction Worker,High School,225000.0,Delhi,Delhi,India,43.0,3.0,4.0,670.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0512,33.0,Male,Construction Worker,Diploma,251000.0,Delhi,Delhi,India,28.0,4.0,11.0,560.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0294,45.0,Female,Facility Manager,Doctorate,2700000.0,Ahmedabad,Gujarat,India,32.0,3.0,10.0,4450.0,Webinar,Disaster Preparedness,Community focused
+CS0130,49.0,Female,Municipal Officer,Postgraduate,2308000.0,bengaluru,Karnataka,India,31.0,1.0,9.0,4540.0,Email,Disaster Preparedness,Community focused
+CS0338,26.0,female,Construction Worker,Diploma,100000.0,Delhi,Delhi,India,37.0,6.0,7.0,720.0,SMS,Hydration Tips,Budget conscious
+CS0125,34.0,F,Delivery Partner,High School,291000.0,Pune,Maharashtra,India,33.0,3.0,11.0,710.0,whatsapp,Heat Safety Alerts,Budget conscious
+CS0775,33.0,Female,Street Vendor,Diploma,,Mumbai,Maharashtra,India,45.0,5.0,10.0,740.0,SMS,Work Hour Advisories,Budget conscious
+CS0227,30.0,Male,Construction Worker,Diploma,300000.0,Ahmedabad,Gujarat,India,35.0,6.0,10.0,650.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0269,25.0,Male,Data Analyst,Postgraduate,627000.0,Delhi,Delhi,India,55.0,5.0,22.0,930.0,Instagram,Climate Data,Digital native
+CS0789,45.0,Female,Homemaker,Graduate,1097000.0,Bengaluru,Karnataka,India,83.0,12.0,13.0,2300.0,Facebook,Health Advisories,Health conscious
+CS0104,43.0,Other,Street Vendor,High School,271000.0,Delhi,Delhi,India,38.0,5.0,11.0,650.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0695,26.0,Male,Data Analyst,Graduate,427000.0,Bengaluru,Karnataka,India,63.0,3.0,27.0,1420.0,Instagram,Open Data and APIs,Sustainability minded
+CS0228,42.0,Other,NGO Manager,Postgraduate,,Ahmedabad,Gujarat,India,31.0,2.0,13.0,4490.0,LinkedIn,Early Warning Systems,Community focused
+CS0718,23.0,F,Data Analyst,Graduate,551000.0,Bengaluru,Karnataka,India,59.0,3.0,27.0,880.0,YouTube,AI Forecasting,Digital native
+CS0302,26.0,Male,Software Engineer,Postgraduate,377000.0,Delhi,Delhi,India,38.0,3.0,26.0,890.0,YouTube,Open Data and APIs,Digital native
+CS0276,44.0,Male,Street Vendor,High School,235000.0,Delhi,Delhi,India,24.0,7.0,11.0,480.0,SMS,Hydration Tips,Budget conscious
+CS0127,21.0,Female,Researcher,Postgraduate,560000.0,Bengaluru,Karnataka,India,48.0,5.0,28.0,1150.0,YouTube,Open Data and APIs,Sustainability minded
+CS0406,39.0,Female,Driver,Diploma,357000.0,Mumbai,Maharashtra,India,41.0,6.0,7.0,770.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0723,20.0,Other,Data Analyst,Graduate,598000.0,Delhi,Delhi,India,52.0,4.0,20.0,880.0,YouTube,Open Data and APIs,Sustainability minded
+CS0037,44.0,Male,Urban Planner,Doctorate,3198000.0,Pune,Maharashtra,India,26.0,1.0,9.0,5610.0,Email,Disaster Preparedness,Policy driven
+CS0140,51.0,MALE,Teacher,Graduate,925000.0,Bengaluru,Karnataka,India,67.0,17.0,10.0,2060.0,Facebook,Child and Elder Care,Health conscious
+CS0304,50.0,male,Facility Manager,Doctorate,2232000.0,Ahmedabad,Gujarat,India,25.0,0.0,9.0,5870.0,Webinar,Disaster Preparedness,Community focused
+CS0268,48.0,Female,Construction Worker,Diploma,280000.0,Ahmedabad,Gujarat,India,50.0,3.0,7.0,600.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0213,36.0,MALE,Construction Worker,High School,305000.0,Ahmedabad,Gujarat,India,44.0,7.0,10.0,650.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0469,42.0,Female,Doctor,Graduate,878000.0,Bangalore,Karnataka,India,57.0,10.0,15.0,2170.0,Email,Health Advisories,Family first
+CS0199,49.0,Male,Municipal Officer,Doctorate,2619000.0,Bombay,Maharashtra,India,44.0,1.0,4.0,6440.0,Webinar,Early Warning Systems,Community focused
+CS0528,33.0,Male,Doctor,Graduate,1099000.0,Mumbai,Maharashtra,India,78.0,12.0,11.0,2900.0,Facebook,Child and Elder Care,Family first
+CS0645,58.0,Male,Facility Manager,Doctorate,2728000.0,Bombay,Maharashtra,India,25.0,2.0,8.0,6480.0,Email,Early Warning Systems,Community focused
+CS0242,20.0,Male,Researcher,Postgraduate,462000.0,Bengaluru,Karnataka,India,32.0,1.0,23.0,840.0,YouTube,Climate Data,Digital native
+CS0343,47.0,MALE,Municipal Officer,Postgraduate,2659000.0,mumbai,Maharashtra,India,27.0,0.0,13.0,6630.0,Webinar,Urban Heat Policy,Community focused
+CS0387,43.0,Male,Business Owner,Graduate,798000.0,Mumbai,Maharashtra,India,76.0,12.0,11.0,3060.0,Email,Child and Elder Care,Family first
+CS0699,18.0,Female,Data Analyst,Graduate,749000.0,Delhi,Delhi,India,53.0,3.0,14.0,1150.0,Reddit,Open Data and APIs,Sustainability minded
+CS0207,36.0,Female,Delivery Partner,High School,206000.0,Mumbai,Maharashtra,India,46.0,4.0,9.0,610.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0296,44.0,F,Delivery Partner,High School,234000.0,Ahmedabad,Gujarat,India,38.0,4.0,6.0,440.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0624,24.0,Female,Software Engineer,Graduate,773000.0,Pune,Maharashtra,India,38.0,4.0,23.0,990.0,Instagram,Climate Data,Digital native
+CS0074,38.0,Female,Street Vendor,High School,317000.0,Delhi,Delhi,India,32.0,4.0,8.0,840.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0105,44.0,Female,Delivery Partner,High School,283000.0,Mumbai,Maharashtra,India,44.0,5.0,6.0,370.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0578,37.0,Female,Driver,High School,196000.0,Delhi,Delhi,India,,3.0,10.0,750.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0778,24.0,Male,Data Analyst,Postgraduate,581000.0,Ahmedabad,Gujarat,India,59.0,3.0,11.0,880.0,Reddit,AI Forecasting,Digital native
+CS0017,34.0,Male,Doctor,Postgraduate,847000.0,Pune,Maharashtra,India,81.0,10.0,10.0,2220.0,Email,Cooling Products,Health conscious
+CS0440,41.0,Male,Teacher,Graduate,988000.0,Pune,Maharashtra,India,,12.0,19.0,2770.0,Instagram,Child and Elder Care,Health conscious
+CS0092,51.0,Female,Municipal Officer,Postgraduate,2280000.0,Mumbai,Maharashtra,India,36.0,2.0,16.0,4670.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0089,31.0,Female,Business Owner,Postgraduate,,Pune,Maharashtra,India,92.0,12.0,12.0,2020.0,Email,Health Advisories,Health conscious
+CS0451,40.0,female,Teacher,Graduate,674000.0,Ahmedabad,Gujarat,India,65.0,11.0,18.0,2540.0,Email,Child and Elder Care,Health conscious
+CS0103,40.0,FEMALE,Street Vendor,High School,247000.0,Mumbai,Maharashtra,India,51.0,7.0,15.0,640.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0239,31.0,Male,Street Vendor,High School,266000.0,Delhi,Delhi,India,33.0,4.0,10.0,750.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0586,38.0,Female,Delivery Partner,Diploma,348000.0,Delhi,Delhi,India,44.0,5.0,7.0,640.0,Push Notification,Hydration Tips,Budget conscious
+CS0247,37.0,Female,Delivery Partner,Diploma,223000.0,Bombay,Maharashtra,India,54.0,2.0,7.0,830.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0581,23.0,Male,Data Analyst,Postgraduate,497000.0,Mumbai,Maharashtra,India,42.0,4.0,28.0,1340.0,Instagram,AI Forecasting,Digital native
+CS0158,50.0,Other,NGO Manager,Doctorate,2026000.0,Ahmedabad,Gujarat,India,23.0,2.0,11.0,4760.0,Webinar,Disaster Preparedness,Policy driven
+CS0480,37.0,Female,Business Owner,Graduate,1217000.0,Pune,Maharashtra,India,75.0,10.0,7.0,2040.0,Facebook,Child and Elder Care,Family first
+CS0687,49.0,M,NGO Manager,Doctorate,1457000.0,Ahmedabad,Gujarat,India,22.0,3.0,12.0,5330.0,Webinar,Urban Heat Policy,Policy driven
+CS0669,49.0,Female,Homemaker,Graduate,1076000.0,Ahmedabad,Gujarat,India,72.0,14.0,12.0,2580.0,Instagram,Cooling Products,Health conscious
+CS0019,28.0,Male,Software Engineer,Graduate,660000.0,Bengaluru,Karnataka,India,98.0,2.0,25.0,770.0,Reddit,Climate Data,Digital native
+CS0711,35.0,Male,Delivery Partner,Diploma,280000.0,Mumbai,Maharashtra,India,43.0,2.0,11.0,660.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0122,45.0,Male,Doctor,Graduate,1213000.0,Bangalore,Karnataka,India,65.0,12.0,10.0,3870.0,Facebook,Cooling Products,Health conscious
+CS0575,24.0,Female,Software Engineer,Graduate,532000.0,Bengaluru,Karnataka,India,63.0,4.0,28.0,740.0,Reddit,Climate Data,Sustainability minded
+CS0275,21.0,Male,Software Engineer,Graduate,485000.0,Bengaluru,Karnataka,India,79.0,6.0,24.0,970.0,Reddit,Open Data and APIs,Digital native
+CS0434,38.0,Male,Teacher,Graduate,900000.0,Delhi,Delhi,India,74.0,12.0,15.0,2230.0,Facebook,Cooling Products,Family first
+CS0727,40.0,Other,Construction Worker,Diploma,228000.0,Ahmedabad,Gujarat,India,40.0,7.0,9.0,820.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0312,37.0,Male,Street Vendor,Diploma,232000.0,Ahmedabad,Gujarat,India,32.0,6.0,13.0,650.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0287,61.0,Other,NGO Manager,Postgraduate,2194000.0,Delhi,Delhi,India,33.0,2.0,8.0,,Webinar,Early Warning Systems,Community focused
+CS0678,31.0,Male,Driver,High School,328000.0,Mumbai,Maharashtra,India,41.0,5.0,6.0,,SMS,Heat Safety Alerts,Long outdoor hours
+CS0547,38.0,Female,Driver,Diploma,427000.0,Mumbai,Maharashtra,India,40.0,5.0,6.0,980.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0182,27.0,Female,Student,Graduate,549000.0,Pune,Maharashtra,India,55.0,2.0,37.0,1180.0,YouTube,AI Forecasting,Digital native
+CS0185,42.0,Female,Urban Planner,Postgraduate,1785000.0,Delhi,Delhi,India,26.0,2.0,12.0,4460.0,Email,Early Warning Systems,Community focused
+CS0407,53.0,Male,Urban Planner,Postgraduate,1902000.0,Ahmedabad,Gujarat,India,25.0,2.0,14.0,5760.0,Webinar,Early Warning Systems,Community focused
+CS0521,34.0,Female,Delivery Partner,Diploma,265000.0,Delhi,Delhi,India,32.0,8.0,8.0,560.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0381,21.0,male,Researcher,Postgraduate,263000.0,Bengaluru,Karnataka,India,68.0,4.0,16.0,560.0,Instagram,Climate Data,Sustainability minded
+CS0411,25.0,Female,Researcher,Graduate,350000.0,Mumbai,Maharashtra,India,65.0,4.0,27.0,920.0,Instagram,Climate Data,Sustainability minded
+CS0370,42.0,female,Construction Worker,Diploma,305000.0,Ahmedabad,Gujarat,India,33.0,2.0,10.0,550.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0661,32.0,Male,Construction Worker,High School,280000.0,Pune,Maharashtra,India,38.0,5.0,11.0,710.0,,Work Hour Advisories,Long outdoor hours
+CS0612,49.0,Male,Facility Manager,Postgraduate,1500000.0,mumbai,Maharashtra,India,28.0,3.0,17.0,4920.0,Webinar,Early Warning Systems,Community focused
+CS0079,20.0,female,Software Engineer,Graduate,391000.0,Delhi,Delhi,India,65.0,2.0,38.0,810.0,Reddit,Climate Data,Digital native
+CS0574,45.0,Female,Facility Manager,Postgraduate,2158000.0,Pune,Maharashtra,India,18.0,3.0,18.0,4620.0,LinkedIn,Urban Heat Policy,Community focused
+CS0646,48.0,Male,Urban Planner,Postgraduate,1575000.0,New Delhi ,Delhi,India,27.0,2.0,16.0,4880.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0697,42.0,Female,Delivery Partner,Diploma,245000.0,Ahmedabad,Gujarat,India,26.0,6.0,8.0,500.0,SMS,Heat Safety Alerts,Budget conscious
+CS0674,57.0,Male,Municipal Officer,Doctorate,2021000.0,Bengaluru,Karnataka,India,25.0,1.0,9.0,6200.0,Webinar,Early Warning Systems,Policy driven
+CS0748,36.0,Male,Teacher,Postgraduate,977000.0,Mumbai,Maharashtra,India,67.0,15.0,15.0,2640.0,Instagram,Child and Elder Care,Health conscious
+CS0417,58.0,Male,Municipal Officer,Doctorate,1774000.0,Ahmedabad,Gujarat,India,53.0,2.0,13.0,5730.0,LinkedIn,Disaster Preparedness,Community focused
+CS0602,47.0,Female,Teacher,Postgraduate,870000.0,bengaluru,Karnataka,India,70.0,13.0,21.0,2490.0,Email,Cooling Products,Health conscious
+CS0562,31.0,Male,Delivery Partner,High School,346000.0,mumbai,Maharashtra,India,24.0,8.0,8.0,650.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0068,61.0,F,NGO Manager,Doctorate,2397000.0,Mumbai,Maharashtra,India,34.0,3.0,14.0,5580.0,Webinar,Urban Heat Policy,Policy driven
+CS0537,47.0,Female,Facility Manager,Postgraduate,2012000.0,Pune,Maharashtra,India,24.0,1.0,11.0,5390.0,Email,Disaster Preparedness,Community focused
+CS0078,19.0,Male,Data Analyst,Postgraduate,704000.0,Ahmedabad,Gujarat,India,56.0,3.0,19.0,930.0,Instagram,Climate Data,Digital native
+CS0106,31.0,Female,Street Vendor,High School,281000.0,Mumbai,Maharashtra,India,24.0,5.0,10.0,610.0,whatsapp,Hydration Tips,Budget conscious
+CS0636,44.0,Male,Urban Planner,Postgraduate,2110000.0,Delhi,Delhi,India,40.0,3.0,20.0,4710.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0633,37.0,Male,Homemaker,Graduate,1027000.0,Bengaluru,Karnataka,India,75.0,16.0,13.0,3170.0,Instagram,Cooling Products,Health conscious
+CS0560,24.0,Female,Street Vendor,Diploma,303000.0,Mumbai,Maharashtra,India,43.0,6.0,10.0,580.0,Push Notification,Hydration Tips,Budget conscious
+CS0706,20.0,Male,Street Vendor,Diploma,375000.0,Bombay,Maharashtra,India,42.0,5.0,11.0,580.0,SMS,Heat Safety Alerts,Budget conscious
+CS0758,25.0,Male,Data Analyst,Graduate,412000.0,bengaluru,Karnataka,India,54.0,4.0,13.0,870.0,YouTube,Climate Data,Digital native
+CS0631,53.0,FEMALE,Teacher,Graduate,968000.0,Ahmedabad,Gujarat,India,76.0,14.0,13.0,2910.0,Facebook,Child and Elder Care,Health conscious
+CS0491,46.0,Female,Delivery Partner,Diploma,368000.0,Ahmedabad,Gujarat,India,45.0,4.0,10.0,670.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0067,39.0,Female,Street Vendor,High School,251000.0,Mumbai,Maharashtra,India,43.0,2.0,9.0,950.0,SMS,Work Hour Advisories,Budget conscious
+CS0686,34.0,Female,Construction Worker,Diploma,235000.0,Mumbai,Maharashtra,India,31.0,7.0,10.0,500.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0364,21.0,Male,Student,Graduate,563000.0,Pune,Maharashtra,India,7.0,6.0,23.0,1120.0,Reddit,AI Forecasting,Digital native
+CS0070,41.0,Male,Driver,High School,149000.0,Ahmedabad,Gujarat,India,31.0,2.0,8.0,680.0,Push Notification,Hydration Tips,Budget conscious
+CS0549,38.0,Female,Street Vendor,Diploma,286000.0,Bengaluru,Karnataka,India,44.0,5.0,6.0,690.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0161,42.0,Female,Teacher,Graduate,912000.0,Ahmedabad,Gujarat,India,70.0,9.0,12.0,2600.0,Email,Health Advisories,Family first
+CS0012,52.0,Male,Homemaker,Postgraduate,679000.0,Delhi,Delhi,India,66.0,12.0,15.0,2110.0,Instagram,Cooling Products,Family first
+CS0145,35.0,Female,Delivery Partner,Diploma,,Ahmedabad,Gujarat,India,41.0,6.0,9.0,670.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0518,34.0,Female,Business Owner,Postgraduate,866000.0,Bengaluru,Karnataka,India,72.0,13.0,12.0,2840.0,Email,Health Advisories,Family first
+CS0428,18.0,M,Researcher,Graduate,456000.0,Delhi,Delhi,India,53.0,2.0,26.0,950.0,YouTube,Climate Data,Digital native
+CS0177,35.0,Female,Driver,High School,301000.0,Ahmedabad,Gujarat,India,32.0,5.0,9.0,500.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0441,31.0,Male,Business Owner,Postgraduate,931000.0,Delhi,Delhi,India,79.0,11.0,14.0,2090.0,Instagram,Health Advisories,Family first
+CS0522,27.0,Female,Data Analyst,Graduate,393000.0,Delhi,Delhi,India,68.0,0.0,26.0,700.0,YouTube,Open Data and APIs,Digital native
+CS0708,23.0,Male,Student,Postgraduate,700000.0,Pune,Maharashtra,India,,3.0,29.0,490.0,Reddit,Open Data and APIs,Sustainability minded
+CS0762,28.0,Female,Student,Graduate,429000.0,Ahmedabad,Gujarat,India,58.0,2.0,27.0,1330.0,YouTube,Open Data and APIs,Digital native
+CS0232,49.0,Male,Doctor,Postgraduate,921000.0,Mumbai,Maharashtra,India,75.0,11.0,17.0,2370.0,Instagram,Cooling Products,Health conscious
+CS0211,44.0,female,Facility Manager,Doctorate,2274000.0,Mumbai,Maharashtra,India,31.0,1.0,10.0,4770.0,LinkedIn,Disaster Preparedness,Community focused
+CS0144,50.0,F,Construction Worker,High School,133000.0,Bengaluru,Karnataka,India,43.0,5.0,13.0,680.0,Push Notification,Work Hour Advisories,Long outdoor hours
+CS0520,36.0,Female,Street Vendor,High School,228000.0,Bengaluru,Karnataka,India,44.0,5.0,10.0,680.0,SMS,Heat Safety Alerts,Budget conscious
+CS0066,42.0,Male,Business Owner,Graduate,1047000.0,Mumbai,Maharashtra,India,70.0,9.0,17.0,1620.0,Instagram,Cooling Products,Family first
+CS0299,25.0,Female,Street Vendor,High School,250000.0,New Delhi ,Delhi,India,35.0,6.0,7.0,680.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0429,28.0,Other,Construction Worker,High School,332000.0,Mumbai,Maharashtra,India,34.0,5.0,8.0,660.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0613,28.0,M,Software Engineer,Postgraduate,527000.0,Pune,Maharashtra,India,68.0,3.0,25.0,910.0,,Open Data and APIs,Digital native
+CS0751,54.0,Female,Facility Manager,Doctorate,2778000.0,Ahmedabad,Gujarat,India,29.0,0.0,12.0,3960.0,LinkedIn,Early Warning Systems,Community focused
+CS0009,50.0,Female,NGO Manager,Doctorate,2207000.0,Pune,Maharashtra,India,31.0,1.0,14.0,6680.0,Email,Disaster Preparedness,Policy driven
+CS0157,49.0,Female,NGO Manager,Doctorate,2245000.0,Bombay,Maharashtra,India,19.0,2.0,12.0,6470.0,LinkedIn,Urban Heat Policy,Community focused
+CS0540,41.0,Male,Construction Worker,High School,316000.0,Mumbai,Maharashtra,India,42.0,6.0,12.0,690.0,SMS,Heat Safety Alerts,Budget conscious
+CS0507,38.0,MALE,Delivery Partner,Diploma,318000.0,Ahmedabad,Gujarat,India,42.0,5.0,14.0,380.0,SMS,Hydration Tips,Budget conscious
+CS0437,33.0,Male,Homemaker,Graduate,697000.0,Ahmedabad,Gujarat,India,73.0,14.0,18.0,3030.0,Email,Cooling Products,Family first
+CS0267,34.0,Female,Doctor,Postgraduate,1155000.0,Mumbai,Maharashtra,India,77.0,13.0,15.0,2070.0,Instagram,Health Advisories,Family first
+CS0462,23.0,Female,Software Engineer,Graduate,529000.0,Bengaluru,Karnataka,India,63.0,4.0,22.0,,Instagram,AI Forecasting,Digital native
+CS0577,45.0,Female,Driver,High School,187000.0,Delhi,Delhi,India,25.0,5.0,9.0,720.0,SMS,Heat Safety Alerts,Budget conscious
+CS0339,48.0,Female,Homemaker,Postgraduate,1261000.0,Delhi,Delhi,India,82.0,11.0,18.0,2230.0,Email,Cooling Products,Health conscious
+CS0256,45.0,Male,Business Owner,Postgraduate,1006000.0,Ahmedabad,Gujarat,India,78.0,14.0,11.0,1890.0,Email,Health Advisories,Health conscious
+CS0656,40.0,Male,Delivery Partner,High School,369000.0,Mumbai,Maharashtra,India,36.0,3.0,11.0,600.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0692,35.0,Female,Business Owner,Graduate,1388000.0,Ahmedabad,Gujarat,India,79.0,9.0,15.0,2620.0,Facebook,Health Advisories,Health conscious
+CS0561,50.0,Other,Municipal Officer,Doctorate,2910000.0,Pune,Maharashtra,India,9.0,2.0,16.0,4720.0,Email,Early Warning Systems,Policy driven
+CS0209,48.0,Male,Teacher,Postgraduate,898000.0,Mumbai,Maharashtra,India,68.0,11.0,11.0,3350.0,Facebook,Cooling Products,Health conscious
+CS0288,,Female,Doctor,Postgraduate,948000.0,Delhi,Delhi,India,67.0,9.0,13.0,1660.0,Email,Child and Elder Care,Family first
+CS0002,51.0,FEMALE,Urban Planner,Doctorate,2330000.0,Pune,Maharashtra,India,25.0,2.0,11.0,,Webinar,Early Warning Systems,Community focused
+CS0342,21.0,FEMALE,Student,Graduate,623000.0,Bengaluru,Karnataka,India,65.0,4.0,23.0,760.0,Reddit,Climate Data,Digital native
+CS0270,54.0,female,Facility Manager,Postgraduate,2281000.0,Mumbai,Maharashtra,India,26.0,1.0,10.0,6020.0,LinkedIn,Urban Heat Policy,Community focused
+CS0266,51.0,Other,Business Owner,Postgraduate,1061000.0,Pune,Maharashtra,India,76.0,14.0,12.0,2360.0,Facebook,Cooling Products,Health conscious
+CS0664,21.0,Male,Researcher,Graduate,458000.0,Bengaluru,Karnataka,India,76.0,5.0,30.0,660.0,YouTube,Climate Data,Sustainability minded
+CS0668,35.0,M,Construction Worker,High School,308000.0,Mumbai,Maharashtra,India,48.0,1.0,8.0,860.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0096,25.0,Male,Software Engineer,Graduate,633000.0,Pune,Maharashtra,India,70.0,5.0,31.0,840.0,Reddit,AI Forecasting,Digital native
+CS0784,35.0,Female,Urban Planner,Postgraduate,1978000.0,Ahmedabad,Gujarat,India,36.0,2.0,11.0,5870.0,Email,Early Warning Systems,Policy driven
+CS0043,,Other,Driver,High School,286000.0,Bombay,Maharashtra,India,53.0,6.0,10.0,660.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0729,41.0,Female,Doctor,Postgraduate,804000.0,Mumbai,Maharashtra,India,80.0,11.0,9.0,1860.0,Instagram,Health Advisories,Health conscious
+CS0761,50.0,Male,Municipal Officer,Doctorate,2006000.0,Mumbai,Maharashtra,India,24.0,2.0,13.0,5890.0,Webinar,Disaster Preparedness,Policy driven
+CS0677,24.0,Male,Software Engineer,Graduate,667000.0,Ahmedabad,Gujarat,India,62.0,5.0,32.0,650.0,Instagram,AI Forecasting,Digital native
+CS0629,43.0,Male,Doctor,Graduate,901000.0,Mumbai,Maharashtra,India,70.0,7.0,7.0,2060.0,Facebook,Child and Elder Care,Family first
+CS0046,24.0,Female,Researcher,Postgraduate,592000.0,Bengaluru,Karnataka,India,64.0,3.0,22.0,640.0,Instagram,Climate Data,Digital native
+CS0162,23.0,Female,Researcher,Graduate,520000.0,Bengaluru,Karnataka,India,74.0,4.0,32.0,1150.0,Reddit,Climate Data,Sustainability minded
+CS0630,29.0,Female,Data Analyst,Graduate,567000.0,Bengaluru,Karnataka,India,69.0,1.0,34.0,840.0,Reddit,AI Forecasting,Digital native
+CS0289,,Female,Delivery Partner,Diploma,311000.0,Mumbai,Maharashtra,India,34.0,4.0,11.0,710.0,SMS,Heat Safety Alerts,Budget conscious
+CS0590,39.0,Male,Driver,High School,282000.0,Ahmedabad,Gujarat,India,39.0,2.0,12.0,530.0,SMS,Hydration Tips,Budget conscious
+CS0725,46.0,Other,Urban Planner,Doctorate,2467000.0,Mumbai,Maharashtra,India,11.0,3.0,15.0,5390.0,Email,Early Warning Systems,Community focused
+CS0771,47.0,Male,Doctor,Graduate,,Bengaluru,Karnataka,India,80.0,14.0,8.0,3300.0,Email,Child and Elder Care,Family first
+CS0576,22.0,Female,Student,Graduate,645000.0,Pune,Maharashtra,India,76.0,1.0,26.0,690.0,Instagram,Open Data and APIs,Digital native
+CS0316,31.0,Female,Delivery Partner,Diploma,301000.0,Ahmedabad,Gujarat,India,35.0,7.0,13.0,330.0,SMS,Hydration Tips,Long outdoor hours
+CS0231,26.0,female,Software Engineer,Graduate,612000.0,Delhi,Delhi,India,60.0,3.0,30.0,1030.0,YouTube,Climate Data,Digital native
+CS0671,48.0,Male,NGO Manager,Postgraduate,2089000.0,Delhi,Delhi,India,23.0,2.0,9.0,5020.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0077,40.0,Male,Business Owner,Postgraduate,901000.0,Pune,Maharashtra,India,83.0,12.0,10.0,2540.0,Email,Cooling Products,Family first
+CS0634,38.0,Male,Street Vendor,High School,221000.0,Mumbai,Maharashtra,India,33.0,3.0,4.0,650.0,SMS,Work Hour Advisories,Long outdoor hours
+CS0794,34.0,Male,Delivery Partner,Diploma,377000.0,Ahmedabad,Gujarat,India,27.0,4.0,5.0,490.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0248,51.0,Male,Business Owner,Postgraduate,807000.0,Bengaluru,Karnataka,India,76.0,12.0,16.0,1460.0,Email,Health Advisories,Family first
+CS0477,37.0,Male,Delivery Partner,Diploma,287000.0,Delhi,Delhi,India,43.0,3.0,8.0,470.0,whatsapp,Work Hour Advisories,Budget conscious
+CS0086,55.0,Female,NGO Manager,Postgraduate,2420000.0,Delhi,Delhi,India,33.0,0.0,15.0,6350.0,LinkedIn,Disaster Preparedness,Community focused
+CS0470,34.0,Male,Homemaker,Postgraduate,1098000.0,Ahmedabad,Gujarat,India,71.0,8.0,15.0,2100.0,Email,Health Advisories,Health conscious
+CS0226,27.0,Female,Researcher,Graduate,387000.0,Bengaluru,Karnataka,India,53.0,4.0,25.0,960.0,Instagram,Climate Data,Sustainability minded
+CS0332,27.0,Male,Researcher,Graduate,365000.0,Delhi,Delhi,India,,3.0,31.0,1110.0,YouTube,Climate Data,Digital native
+CS0234,57.0,Female,Business Owner,Graduate,1117000.0,Delhi,Delhi,India,75.0,13.0,16.0,2850.0,Facebook,Health Advisories,Family first
+CS0589,49.0,Female,Facility Manager,Doctorate,1607000.0,Ahmedabad,Gujarat,India,22.0,2.0,12.0,5880.0,Email,Early Warning Systems,Community focused
+CS0476,26.0,MALE,Student,Graduate,631000.0,Mumbai,Maharashtra,India,64.0,3.0,19.0,870.0,Instagram,AI Forecasting,Digital native
+CS0724,38.0,Female,Teacher,Graduate,1105000.0,Pune,Maharashtra,India,62.0,13.0,14.0,2670.0,Facebook,Health Advisories,Family first
+CS0709,41.0,Female,Homemaker,Graduate,928000.0,Ahmedabad,Gujarat,India,68.0,11.0,19.0,2340.0,Facebook,Health Advisories,Health conscious
+CS0600,55.0,Female,NGO Manager,Postgraduate,2748000.0,Pune,Maharashtra,India,36.0,2.0,18.0,5330.0,LinkedIn,Early Warning Systems,Policy driven
+CS0422,59.0,Female,Facility Manager,Doctorate,2296000.0,Ahmedabad,Gujarat,India,32.0,1.0,14.0,6100.0,Email,Early Warning Systems,Community focused
+CS0183,29.0,Female,Delivery Partner,Diploma,284000.0,Delhi,Delhi,India,42.0,9.0,9.0,780.0,Push Notification,Hydration Tips,Budget conscious
+CS0618,32.0,Female,Delivery Partner,High School,287000.0,Delhi,Delhi,India,35.0,6.0,6.0,750.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0333,60.0,Female,Homemaker,Postgraduate,1141000.0,Ahmedabad,Gujarat,India,74.0,10.0,14.0,2200.0,Email,Cooling Products,Family first
+CS0439,36.0,Male,Homemaker,Postgraduate,1021000.0,Mumbai,Maharashtra,India,71.0,10.0,16.0,3030.0,Email,Health Advisories,Health conscious
+CS0050,18.0,Male,Software Engineer,Graduate,546000.0,Pune,Maharashtra,India,50.0,5.0,23.0,780.0,YouTube,Open Data and APIs,Sustainability minded
+CS0006,25.0,Female,Student,Postgraduate,,Mumbai,Maharashtra,India,56.0,1.0,30.0,500.0,Instagram,Climate Data,Sustainability minded
+CS0530,47.0,Male,Municipal Officer,Doctorate,2524000.0,Ahmedabad,Gujarat,India,,2.0,12.0,5540.0,Webinar,Early Warning Systems,Policy driven
+CS0235,44.0,Male,Construction Worker,High School,275000.0,Bengaluru,Karnataka,India,49.0,5.0,8.0,530.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0487,,Male,Software Engineer,Graduate,552000.0,Bengaluru,Karnataka,India,22.0,3.0,25.0,1210.0,Reddit,Open Data and APIs,Sustainability minded
+CS0733,42.0,Female,Driver,High School,300000.0,Pune,Maharashtra,India,46.0,4.0,8.0,680.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0498,22.0,Female,Student,Postgraduate,545000.0,Mumbai,Maharashtra,India,44.0,3.0,25.0,,Instagram,Open Data and APIs,Digital native
+CS0730,31.0,Female,Construction Worker,Diploma,333000.0,Delhi,Delhi,India,45.0,5.0,6.0,810.0,WhatsApp,Hydration Tips,Budget conscious
+CS0107,45.0,Female,Teacher,Graduate,995000.0,Bengaluru,Karnataka,India,64.0,11.0,11.0,2580.0,Email,Health Advisories,Health conscious
+CS0444,50.0,Female,Facility Manager,Postgraduate,2123000.0,Delhi,Delhi,India,34.0,3.0,11.0,6010.0,Email,Early Warning Systems,Policy driven
+CS0489,51.0,Male,Municipal Officer,Doctorate,1967000.0,Ahmedabad,Gujarat,India,30.0,3.0,8.0,4320.0,LinkedIn,Urban Heat Policy,Community focused
+CS0647,54.0,M,Municipal Officer,Doctorate,2132000.0,Delhi,Delhi,India,29.0,3.0,9.0,5500.0,Webinar,Urban Heat Policy,Policy driven
+CS0013,28.0,Female,Data Analyst,Graduate,594000.0,Bengaluru,Karnataka,India,51.0,4.0,16.0,1060.0,Reddit,Climate Data,Sustainability minded
+CS0191,34.0,Male,Software Engineer,Postgraduate,663000.0,Bengaluru,Karnataka,India,62.0,3.0,27.0,1420.0,Reddit,Open Data and APIs,Sustainability minded
+CS0283,39.0,Female,Doctor,Graduate,1043000.0,Pune,Maharashtra,India,62.0,13.0,16.0,2640.0,Facebook,Cooling Products,Health conscious
+CS0030,,Male,Software Engineer,Graduate,734000.0,Ahmedabad,Gujarat,India,49.0,3.0,20.0,610.0,YouTube,Climate Data,Sustainability minded
+CS0170,22.0,Male,Researcher,Graduate,524000.0,Mumbai,Maharashtra,India,52.0,4.0,28.0,850.0,Reddit,AI Forecasting,Digital native
+CS0181,,Male,Facility Manager,Postgraduate,2208000.0,Bengaluru,Karnataka,India,23.0,2.0,12.0,5180.0,LinkedIn,Early Warning Systems,Community focused
+CS0101,26.0,FEMALE,Delivery Partner,High School,354000.0,Pune,Maharashtra,India,53.0,3.0,8.0,740.0,WhatsApp,Work Hour Advisories,Long outdoor hours
+CS0198,37.0,Female,Driver,High School,280000.0,Ahmedabad,Gujarat,India,45.0,7.0,9.0,710.0,SMS,Heat Safety Alerts,Budget conscious
+CS0496,34.0,Female,Construction Worker,Diploma,307000.0,Ahmedabad,Gujarat,India,35.0,5.0,8.0,710.0,WhatsApp,Hydration Tips,Budget conscious
+CS0648,22.0,Male,Software Engineer,Graduate,670000.0,Bangalore,Karnataka,India,66.0,5.0,21.0,850.0,Instagram,AI Forecasting,Sustainability minded
+CS0792,38.0,Male,Delivery Partner,Diploma,367000.0,Pune,Maharashtra,India,21.0,6.0,9.0,530.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0756,31.0,Male,Homemaker,Graduate,578000.0,Pune,Maharashtra,India,70.0,14.0,15.0,2180.0,Instagram,Health Advisories,Family first
+CS0374,34.0,Male,Street Vendor,High School,302000.0,Mumbai,Maharashtra,India,46.0,6.0,8.0,700.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0679,20.0,Female,Data Analyst,Postgraduate,798000.0,Pune,Maharashtra,India,78.0,3.0,30.0,1210.0,Instagram,Open Data and APIs,Digital native
+CS0721,32.0,Female,Driver,High School,141000.0,Bengaluru,Karnataka,India,15.0,5.0,6.0,390.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0649,26.0,Male,Data Analyst,Postgraduate,517000.0,Pune,Maharashtra,India,82.0,4.0,27.0,760.0,Instagram,Climate Data,Sustainability minded
+CS0461,37.0,Male,Business Owner,Postgraduate,684000.0,Mumbai,Maharashtra,India,83.0,13.0,17.0,2280.0,Instagram,Cooling Products,Family first
+CS0414,25.0,Female,Software Engineer,Postgraduate,759000.0,Ahmedabad,Gujarat,India,61.0,4.0,15.0,860.0,Instagram,AI Forecasting,Sustainability minded
+CS0132,37.0,Male,Teacher,Postgraduate,1004000.0,Mumbai,Maharashtra,India,84.0,10.0,11.0,2860.0,Instagram,Cooling Products,Health conscious
+CS0040,55.0,Female,Municipal Officer,Doctorate,2172000.0,delhi,Delhi,India,20.0,2.0,9.0,6550.0,Email,Disaster Preparedness,Policy driven
+CS0435,53.0,FEMALE,Municipal Officer,Doctorate,1661000.0,Delhi,Delhi,India,18.0,2.0,11.0,6600.0,Webinar,Urban Heat Policy,Community focused
+CS0216,38.0,Male,Construction Worker,Diploma,335000.0,Mumbai,Maharashtra,India,56.0,5.0,9.0,780.0,whatsapp,Heat Safety Alerts,Long outdoor hours
+CS0556,47.0,Female,Municipal Officer,Postgraduate,1902000.0,Mumbai,Maharashtra,India,29.0,3.0,12.0,5690.0,Email,Urban Heat Policy,Community focused
+CS0567,25.0,Male,Student,Graduate,523000.0,Delhi,Delhi,India,57.0,5.0,24.0,930.0,Instagram,Open Data and APIs,Digital native
+CS0475,43.0,Male,Homemaker,Postgraduate,791000.0,Mumbai,Maharashtra,India,76.0,14.0,12.0,1950.0,Instagram,Cooling Products,Family first
+CS0457,27.0,MALE,Delivery Partner,High School,285000.0,mumbai,Maharashtra,India,42.0,6.0,9.0,460.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0261,33.0,Male,Delivery Partner,Diploma,369000.0,Mumbai,Maharashtra,India,29.0,7.0,3.0,690.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0036,33.0,Male,Driver,High School,273000.0,Ahmedabad,Gujarat,India,37.0,7.0,12.0,820.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0310,28.0,Female,Driver,Diploma,324000.0,Delhi,Delhi,India,44.0,6.0,3.0,320.0,WhatsApp,Hydration Tips,Budget conscious
+CS0277,32.0,Female,Software Engineer,Postgraduate,412000.0,Pune,Maharashtra,India,57.0,2.0,27.0,820.0,YouTube,AI Forecasting,Sustainability minded
+CS0637,18.0,Female,Software Engineer,Graduate,699000.0,Pune,Maharashtra,India,62.0,5.0,29.0,540.0,Reddit,Climate Data,Digital native
+CS0655,23.0,Female,Data Analyst,Graduate,416000.0,Mumbai,Maharashtra,India,67.0,1.0,36.0,760.0,Reddit,Open Data and APIs,Digital native
+CS0623,50.0,Male,Street Vendor,High School,220000.0,Delhi,Delhi,India,48.0,4.0,4.0,700.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0394,31.0,Male,Data Analyst,Postgraduate,644000.0,Bengaluru,Karnataka,India,53.0,4.0,31.0,1150.0,YouTube,Climate Data,Sustainability minded
+CS0108,45.0,Male,Urban Planner,Doctorate,1836000.0,Delhi,Delhi,India,25.0,0.0,17.0,3340.0,Email,Urban Heat Policy,Policy driven
+CS0769,44.0,Female,Doctor,Postgraduate,728000.0,Pune,Maharashtra,India,78.0,9.0,11.0,2030.0,Email,Health Advisories,Health conscious
+CS0525,21.0,Male,Driver,High School,258000.0,Mumbai,Maharashtra,India,42.0,4.0,10.0,810.0,,Work Hour Advisories,Long outdoor hours
+CS0048,24.0,MALE,Data Analyst,Graduate,605000.0,Bengaluru,Karnataka,India,50.0,5.0,22.0,540.0,Reddit,AI Forecasting,Digital native
+CS0204,18.0,Female,Software Engineer,Graduate,354000.0,Bengaluru,Karnataka,India,36.0,2.0,28.0,900.0,YouTube,Climate Data,Digital native
+CS0753,27.0,Female,Researcher,Postgraduate,703000.0,Pune,Maharashtra,India,51.0,3.0,34.0,1040.0,Reddit,AI Forecasting,Digital native
+CS0632,46.0,Male,Teacher,Postgraduate,561000.0,Delhi,Delhi,India,77.0,13.0,15.0,2420.0,Instagram,Cooling Products,Health conscious
+CS0022,,Male,Student,Postgraduate,645000.0,Bengaluru,Karnataka,India,68.0,3.0,19.0,780.0,YouTube,Open Data and APIs,Sustainability minded
+CS0403,47.0,female,Homemaker,Postgraduate,,delhi,Delhi,India,78.0,5.0,13.0,2280.0,Instagram,Health Advisories,Family first
+CS0084,,male,Driver,Diploma,264000.0,Pune,Maharashtra,India,38.0,3.0,9.0,680.0,SMS,Work Hour Advisories,Budget conscious
+CS0131,38.0,Female,Municipal Officer,Postgraduate,1960000.0,Bengaluru,Karnataka,India,27.0,2.0,11.0,5680.0,LinkedIn,Early Warning Systems,Policy driven
+CS0416,24.0,Male,Researcher,Postgraduate,472000.0,Bengaluru,Karnataka,India,63.0,4.0,31.0,590.0,Reddit,Climate Data,Sustainability minded
+CS0742,23.0,Male,Data Analyst,Graduate,633000.0,Delhi,Delhi,India,65.0,2.0,22.0,1310.0,Instagram,AI Forecasting,Sustainability minded
+CS0698,38.0,Male,Delivery Partner,High School,255000.0,delhi,Delhi,India,51.0,5.0,7.0,610.0,Push Notification,Hydration Tips,Budget conscious
+CS0287,61.0,Other,NGO Manager,Postgraduate,2194000.0,Delhi,Delhi,India,33.0,2.0,8.0,,Webinar,Early Warning Systems,Community focused
+CS0124,48.0,Male,NGO Manager,Postgraduate,1663000.0,Bengaluru,Karnataka,India,31.0,2.0,13.0,,Webinar,Early Warning Systems,Community focused
+CS0034,57.0,MALE,Doctor,Postgraduate,1189000.0,Delhi,Delhi,India,66.0,12.0,17.0,2610.0,Facebook,Health Advisories,Family first
+CS0517,23.0,Female,Data Analyst,Postgraduate,442000.0,Ahmedabad,Gujarat,India,65.0,4.0,24.0,840.0,,Open Data and APIs,Sustainability minded
+CS0020,27.0,Male,Software Engineer,Graduate,613000.0,Pune,Maharashtra,India,67.0,1.0,30.0,770.0,Instagram,Climate Data,Sustainability minded
+CS0754,62.0,Male,Facility Manager,Postgraduate,2140000.0,bengaluru,Karnataka,India,36.0,2.0,15.0,4340.0,LinkedIn,Early Warning Systems,Policy driven
+CS0220,50.0,Male,Municipal Officer,Doctorate,2694000.0,Delhi,Delhi,India,32.0,1.0,10.0,4790.0,Webinar,Disaster Preparedness,Community focused
+CS0068,61.0,F,NGO Manager,Doctorate,2397000.0,Mumbai,Maharashtra,India,34.0,3.0,14.0,5580.0,Webinar,Urban Heat Policy,Policy driven
+CS0482,39.0,Female,Delivery Partner,High School,307000.0,Mumbai,Maharashtra,India,48.0,4.0,5.0,260.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0357,45.0,Female,Homemaker,Postgraduate,679000.0,Ahmedabad,Gujarat,India,78.0,10.0,10.0,2920.0,Email,Child and Elder Care,Health conscious
+CS0662,22.0,Male,Student,Postgraduate,435000.0,Pune,Maharashtra,India,40.0,2.0,36.0,1090.0,Reddit,AI Forecasting,Digital native
+CS0225,40.0,Male,Delivery Partner,High School,295000.0,Delhi,Delhi,India,32.0,4.0,9.0,790.0,Push Notification,Hydration Tips,Budget conscious
+CS0093,41.0,Male,Business Owner,Postgraduate,1173000.0,Delhi,Delhi,India,70.0,10.0,13.0,2130.0,Instagram,Cooling Products,Family first
+CS0152,21.0,Female,Street Vendor,High School,309000.0,Ahmedabad,Gujarat,India,32.0,6.0,9.0,740.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0799,47.0,Female,Doctor,Postgraduate,1187000.0,Ahmedabad,Gujarat,India,73.0,13.0,7.0,2320.0,Facebook,Health Advisories,Health conscious
+CS0318,22.0,Female,Software Engineer,Postgraduate,779000.0,Pune,Maharashtra,India,69.0,4.0,20.0,1150.0,YouTube,Open Data and APIs,Sustainability minded
+CS0449,43.0,Male,Teacher,Graduate,1009000.0,Mumbai,Maharashtra,India,85.0,12.0,14.0,2020.0,Facebook,Health Advisories,Health conscious
+CS0746,32.0,Male,Teacher,Graduate,817000.0,Bengaluru,Karnataka,India,77.0,15.0,14.0,1620.0,Email,Child and Elder Care,Family first
+CS0523,49.0,Female,Homemaker,Graduate,939000.0,Ahmedabad,Gujarat,India,76.0,9.0,14.0,1910.0,Facebook,Child and Elder Care,Family first
+CS0280,31.0,Female,Doctor,Graduate,954000.0,Pune,Maharashtra,India,65.0,11.0,16.0,3080.0,Instagram,Health Advisories,Health conscious
+CS0584,45.0,Female,Business Owner,Graduate,1033000.0,Pune,Maharashtra,India,65.0,8.0,12.0,2610.0,Facebook,Child and Elder Care,Health conscious
+CS0765,46.0,Male,Driver,Diploma,288000.0,Mumbai,Maharashtra,India,43.0,4.0,11.0,610.0,Push Notification,Work Hour Advisories,Budget conscious
+CS0605,48.0,Male,Urban Planner,Doctorate,2024000.0,Delhi,Delhi,India,24.0,2.0,14.0,5290.0,LinkedIn,Early Warning Systems,Policy driven
+CS0350,36.0,Male,Street Vendor,Diploma,309000.0,Delhi,Delhi,India,41.0,2.0,8.0,790.0,SMS,Hydration Tips,Long outdoor hours
+CS0375,,Male,Driver,Diploma,293000.0,Ahmedabad,Gujarat,India,27.0,5.0,15.0,570.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0401,39.0,Female,Driver,Diploma,196000.0,New Delhi ,Delhi,India,44.0,3.0,8.0,540.0,SMS,Heat Safety Alerts,Budget conscious
+CS0705,56.0,Female,Delivery Partner,High School,237000.0,New Delhi ,Delhi,India,53.0,5.0,8.0,830.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0258,51.0,Male,Municipal Officer,Doctorate,1694000.0,Pune,Maharashtra,India,28.0,2.0,18.0,6440.0,Webinar,Early Warning Systems,Community focused
+CS0073,49.0,Female,Urban Planner,Postgraduate,1808000.0,Mumbai,Maharashtra,India,28.0,2.0,9.0,7130.0,Email,Disaster Preparedness,Policy driven
+CS0196,49.0,Male,Street Vendor,Diploma,351000.0,Mumbai,Maharashtra,India,50.0,5.0,7.0,710.0,SMS,Hydration Tips,Long outdoor hours
+CS0484,35.0,Male,Doctor,Postgraduate,794000.0,Pune,Maharashtra,India,70.0,15.0,12.0,2740.0,Instagram,Health Advisories,Health conscious
+CS0138,38.0,Male,Teacher,Graduate,1108000.0,Bombay,Maharashtra,India,,10.0,14.0,2350.0,Facebook,Cooling Products,Health conscious
+CS0495,28.0,Male,Construction Worker,High School,248000.0,Delhi,Delhi,India,33.0,2.0,12.0,660.0,Push Notification,Heat Safety Alerts,Long outdoor hours
+CS0773,41.0,Male,Driver,High School,348000.0,Mumbai,Maharashtra,India,32.0,7.0,4.0,430.0,WhatsApp,Hydration Tips,Long outdoor hours
+CS0551,34.0,Male,Doctor,Graduate,1144000.0,Mumbai,Maharashtra,India,78.0,11.0,12.0,1570.0,Email,Health Advisories,Health conscious
+CS0463,48.0,Female,Teacher,Postgraduate,1097000.0,Mumbai,Maharashtra,India,71.0,12.0,9.0,1310.0,Email,Health Advisories,Family first
+CS0202,33.0,FEMALE,Driver,Diploma,338000.0,Ahmedabad,Gujarat,India,60.0,2.0,10.0,560.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0313,51.0,Female,Urban Planner,Postgraduate,2121000.0,Mumbai,Maharashtra,India,24.0,2.0,12.0,5210.0,Email,Early Warning Systems,Community focused
+CS0291,20.0,Male,Researcher,Graduate,591000.0,Pune,Maharashtra,India,78.0,3.0,34.0,1120.0,YouTube,AI Forecasting,Digital native
+CS0190,25.0,Male,Student,Graduate,560000.0,Bangalore,Karnataka,India,60.0,3.0,19.0,880.0,Instagram,Open Data and APIs,Sustainability minded
+CS0764,18.0,Female,Student,Graduate,545000.0,Ahmedabad,Gujarat,India,40.0,3.0,29.0,1090.0,Instagram,Climate Data,Digital native
+CS0113,43.0,Female,Construction Worker,Diploma,154000.0,Mumbai,Maharashtra,India,38.0,5.0,11.0,530.0,WhatsApp,Work Hour Advisories,Budget conscious
+CS0184,47.0,Female,Urban Planner,Doctorate,1351000.0,Pune,Maharashtra,India,30.0,3.0,13.0,7590.0,LinkedIn,Disaster Preparedness,Policy driven
+CS0153,46.0,Female,Municipal Officer,Doctorate,1451000.0,Bengaluru,Karnataka,India,31.0,3.0,12.0,6230.0,Webinar,Urban Heat Policy,Community focused
+CS0326,35.0,MALE,Delivery Partner,High School,352000.0,Pune,Maharashtra,India,43.0,7.0,13.0,630.0,SMS,Work Hour Advisories,Budget conscious
+CS0704,24.0,Male,Delivery Partner,High School,280000.0,Pune,Maharashtra,India,46.0,6.0,12.0,540.0,WhatsApp,Heat Safety Alerts,Budget conscious
+CS0045,28.0,Female,Software Engineer,Postgraduate,572000.0,Bengaluru,Karnataka,India,62.0,4.0,33.0,1220.0,Reddit,Climate Data,Sustainability minded
+CS0445,47.0,Female,Teacher,Graduate,1051000.0,Bengaluru,Karnataka,India,85.0,8.0,18.0,2440.0,Email,Health Advisories,Health conscious
+CS0788,19.0,Female,Data Analyst,Graduate,590000.0,Bengaluru,Karnataka,India,56.0,4.0,27.0,440.0,Instagram,Open Data and APIs,Digital native
+CS0007,37.0,Male,Business Owner,Graduate,1045000.0,Pune,Maharashtra,India,77.0,13.0,15.0,2940.0,Instagram,Health Advisories,Family first
+CS0251,22.0,Male,Student,Graduate,340000.0,Pune,Maharashtra,India,71.0,2.0,27.0,570.0,Instagram,AI Forecasting,Digital native
+CS0076,23.0,Male,Construction Worker,High School,280000.0,Delhi,Delhi,India,50.0,4.0,6.0,880.0,SMS,Heat Safety Alerts,Budget conscious
+CS0513,19.0,Male,Software Engineer,Graduate,643000.0,Bengaluru,Karnataka,India,54.0,1.0,19.0,910.0,Reddit,Open Data and APIs,Sustainability minded
+CS0392,41.0,Male,Urban Planner,Doctorate,2118000.0,Ahmedabad,Gujarat,India,31.0,3.0,11.0,4440.0,Webinar,Disaster Preparedness,Community focused
+CS0433,53.0,Male,Teacher,Postgraduate,459000.0,Mumbai,Maharashtra,India,70.0,11.0,8.0,2150.0,Email,Child and Elder Care,Health conscious
+CS0069,36.0,FEMALE,Teacher,Graduate,655000.0,Bengaluru,Karnataka,India,83.0,16.0,11.0,2770.0,Facebook,Child and Elder Care,Family first
+CS0168,45.0,Male,Teacher,Postgraduate,985000.0,Mumbai,Maharashtra,India,74.0,17.0,12.0,2390.0,Instagram,Cooling Products,Health conscious
+CS0731,55.0,Female,Municipal Officer,Postgraduate,1444000.0,Delhi,Delhi,India,23.0,2.0,10.0,2590.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0555,48.0,Male,Business Owner,Graduate,1020000.0,Mumbai,Maharashtra,India,83.0,12.0,14.0,2500.0,Email,Child and Elder Care,Health conscious
+CS0367,38.0,Male,Driver,Diploma,234000.0,New Delhi ,Delhi,India,56.0,6.0,5.0,690.0,SMS,Heat Safety Alerts,Long outdoor hours
+CS0346,42.0,Male,Homemaker,Graduate,998000.0,Ahmedabad,Gujarat,India,,15.0,12.0,1920.0,Facebook,Health Advisories,Health conscious
+CS0585,37.0,Male,Delivery Partner,Diploma,386000.0,Delhi,Delhi,India,29.0,6.0,9.0,640.0,WhatsApp,Heat Safety Alerts,Long outdoor hours
+CS0536,29.0,female,Software Engineer,Postgraduate,630000.0,Delhi,Delhi,India,59.0,3.0,31.0,900.0,Reddit,Open Data and APIs,Digital native
+CS0399,46.0,FEMALE,Doctor,Graduate,706000.0,Bengaluru,Karnataka,India,70.0,19.0,18.0,3040.0,Instagram,Health Advisories,Family first
+CS0186,34.0,Female,Construction Worker,Diploma,276000.0,Pune,Maharashtra,India,48.0,6.0,12.0,670.0,Push Notification,Hydration Tips,Long outdoor hours
+CS0349,33.0,Male,Delivery Partner,High School,289000.0,Ahmedabad,Gujarat,India,46.0,2.0,10.0,780.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0616,25.0,Female,Researcher,Graduate,549000.0,Mumbai,Maharashtra,India,58.0,2.0,25.0,1340.0,YouTube,Open Data and APIs,Sustainability minded
+CS0212,42.0,female,Driver,High School,294000.0,Mumbai,Maharashtra,India,53.0,4.0,8.0,760.0,Push Notification,Heat Safety Alerts,Budget conscious
+CS0580,44.0,FEMALE,NGO Manager,Doctorate,1883000.0,Pune,Maharashtra,India,25.0,2.0,9.0,3880.0,Email,Disaster Preparedness,Policy driven
+CS0503,49.0,Female,Facility Manager,Postgraduate,2060000.0,Bengaluru,Karnataka,India,22.0,1.0,11.0,5140.0,LinkedIn,Urban Heat Policy,Policy driven
+CS0538,43.0,Male,Municipal Officer,Doctorate,1908000.0,Mumbai,Maharashtra,India,29.0,2.0,11.0,4830.0,Webinar,Early Warning Systems,Policy driven
+CS0197,51.0,Female,Municipal Officer,Postgraduate,2620000.0,Bengaluru,Karnataka,India,,2.0,12.0,6760.0,Email,Early Warning Systems,Policy driven
+CS0176,56.0,Female,Urban Planner,Postgraduate,2220000.0,Mumbai,Maharashtra,India,23.0,2.0,12.0,5730.0,Email,Urban Heat Policy,Policy driven
